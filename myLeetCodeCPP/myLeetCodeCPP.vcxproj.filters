@@ -24,12 +24,18 @@
     <ClCompile Include="PalindromeNumber.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="RegularExpressionMatching_recursive.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="PalindromeNumber.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RegularExpressionMatching_recursive.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

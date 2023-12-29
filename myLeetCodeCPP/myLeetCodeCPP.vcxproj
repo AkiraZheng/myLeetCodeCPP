@@ -128,11 +128,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="PalindromeNumber.cpp" />
+    <ClCompile Include="RegularExpressionMatching_recursive.cpp" />
     <ClCompile Include="StringToInteger.cpp" />
     <ClCompile Include="源.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PalindromeNumber.h" />
+    <ClInclude Include="RegularExpressionMatching_recursive.h" />
     <ClInclude Include="StringToInteger.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
