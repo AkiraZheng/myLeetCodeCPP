@@ -30,6 +30,33 @@
     <ClCompile Include="RegularExpressionMatching_DP.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="TwoSum_Exhaustive.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoSum_HashMap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AddTwoNumbers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestSubstring.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Median2SortedArrays.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestPalindromicSubstring_DP.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestPalindromicSubstring_Manach.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZigzagConversion.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ReverseInteger.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -42,6 +69,33 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="RegularExpressionMatching_DP.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoSum_Exhaustive.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoSum_HashMap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AddTwoNumbers.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestSubstring.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Median2SortedArrays.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestPalindromicSubstring_DP.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestPalindromicSubstring_Manach.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZigzagConversion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseInteger.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
