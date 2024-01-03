@@ -2,8 +2,13 @@
 bool RegularExpressionMatching_DP::isMatch(const string s, const string p) {
     int m = s.size() + 1; // 状态数组 dp 的行数，其中包含第一位自添加的 ''
     int n = p.size() + 1; // 状态数组 dp 的列数，其中包含第一位自添加的 ''
-    bool dp[m + 0][n + 0];
-    fill_n(&dp[0][0], m * n, false); // 补0
+    //bool dp[m + 0][n + 0];//g++和letcode的编译器可以编译成功
+    //fill_n(&dp[0][0], m * n, false); // 补0//g++和letcode的编译器可以编译成功
+    
+    //visual studio中二维数组不能用变量来定义，只能用常量，因此这里用vector来定义
+    //用vector的方法运行时间和占用内存都增加了
+    vector<vector<bool>> dp(m, vector<bool>(n, false));
+
     // 由于状态数组在行列首位中都添加了''，因此后面的循环中，状态数组为i-j时，对应s中[i-1]以及p中[j-1]的字符
     // 1. 初始化状态数组的首行
     /*规则：
@@ -16,19 +21,6 @@ bool RegularExpressionMatching_DP::isMatch(const string s, const string p) {
     {
         if (p[j - 1] == '*' && dp[0][j - 2])
             dp[0][j] = true;
-        // if (j % 2)
-        // {
-        //     dp[0][j] = false;
-        // }
-        // // 当为偶数个的时候，判断隔着一个字符的那个位置，能不能匹配到，如果能，就能
-        // else if (p[j - 1] == '*')
-        // {
-        //     dp[0][j] = dp[0][j - 2];
-        // }
-        // else
-        // {
-        //     dp[0][j] = false;
-        // }
     }
     // 2. 动态规划填充剩下的状态转移数组：从第二行开始一行一行扫过去
     // 2.1 若p[j-1]=='*'，想要dp[i][j]=true，则有三种情况能实现

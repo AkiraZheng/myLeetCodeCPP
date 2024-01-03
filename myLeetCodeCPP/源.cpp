@@ -2,7 +2,7 @@
 //#include "StringToInteger.h"
 //#include "PalindromeNumber.h"
 //#include "RegularExpressionMatching_recursive.h"
-//#include "RegularExpressionMatching_DP.h"
+#include "RegularExpressionMatching_DP.h"
 
 using namespace std;
 int main() {
@@ -17,10 +17,10 @@ int main() {
 	string p = "a*aac";
 	cout << rem.isMatch(s, p);*/
 
-	/*string s = "ab";
+	string s = "ab";
 	string p = ".*";
 	RegularExpressionMatching_DP rem_DP;
-	cout << rem_DP.isMatch(s, p);*/
+	cout << rem_DP.isMatch(s, p);
 
 	return 0;
 }
