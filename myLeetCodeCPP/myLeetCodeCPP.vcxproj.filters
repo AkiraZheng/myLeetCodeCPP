@@ -57,6 +57,9 @@
     <ClCompile Include="ReverseInteger.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="BinarySearch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -96,6 +99,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="ReverseInteger.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BinarySearch.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
