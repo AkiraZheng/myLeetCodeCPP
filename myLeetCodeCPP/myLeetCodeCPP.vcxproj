@@ -137,6 +137,7 @@
     <ClCompile Include="RegularExpressionMatching_DP.cpp" />
     <ClCompile Include="RegularExpressionMatching_recursive.cpp" />
     <ClCompile Include="ReverseInteger.cpp" />
+    <ClCompile Include="SearchInsertPosition.cpp" />
     <ClCompile Include="StringToInteger.cpp" />
     <ClCompile Include="TwoSum_Exhaustive.cpp" />
     <ClCompile Include="TwoSum_HashMap.cpp" />
@@ -146,6 +147,7 @@
   <ItemGroup>
     <ClInclude Include="AddTwoNumbers.h" />
     <ClInclude Include="BinarySearch.h" />
+    <ClInclude Include="header.h" />
     <ClInclude Include="LongestPalindromicSubstring_DP.h" />
     <ClInclude Include="LongestPalindromicSubstring_Manach.h" />
     <ClInclude Include="LongestSubstring.h" />
@@ -154,6 +156,7 @@
     <ClInclude Include="RegularExpressionMatching_DP.h" />
     <ClInclude Include="RegularExpressionMatching_recursive.h" />
     <ClInclude Include="ReverseInteger.h" />
+    <ClInclude Include="SearchInsertPosition.h" />
     <ClInclude Include="StringToInteger.h" />
     <ClInclude Include="TwoSum_Exhaustive.h" />
     <ClInclude Include="TwoSum_HashMap.h" />

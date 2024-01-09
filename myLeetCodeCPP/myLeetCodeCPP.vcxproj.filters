@@ -60,6 +60,9 @@
     <ClCompile Include="BinarySearch.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="SearchInsertPosition.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -102,6 +105,12 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="BinarySearch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchInsertPosition.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="header.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
