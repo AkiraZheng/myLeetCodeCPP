@@ -3,7 +3,8 @@
 //#include "PalindromeNumber.h"
 //#include "RegularExpressionMatching_recursive.h"
 //#include "RegularExpressionMatching_DP.h"
-#include "BinarySearch.h"
+//#include "BinarySearch.h"
+//#include "FindFirstLastPosition.h"
 
 using namespace std;
 int main() {
@@ -23,11 +24,15 @@ int main() {
 	RegularExpressionMatching_DP rem_DP;
 	cout << rem_DP.isMatch(s, p);*/
 
-	BinarySearch BS;
-	//vector<int> nums = {-1, 0, 3, 5, 9, 12};
-	vector<int> nums = { -1 };
-	cout << BS.search(nums, 2) << endl;
+	//BinarySearch BS;
+	////vector<int> nums = {-1, 0, 3, 5, 9, 12};
+	//vector<int> nums = { -1 };
+	//cout << BS.search(nums, 2) << endl;
 
+	/*FindFirstLastPosition FFLP;
+	vector<int> nums = { 5,7,7,8,8,10 };
+	vector<int> result = FFLP.searchRange(nums, 8);
+	cout << result.at(0) << result.at(1);*/
 
 	return 0;
 }

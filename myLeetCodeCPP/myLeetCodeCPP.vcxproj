@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="AddTwoNumbers.cpp" />
     <ClCompile Include="BinarySearch.cpp" />
+    <ClCompile Include="FindFirstLastPosition.cpp" />
     <ClCompile Include="LongestPalindromicSubstring_DP.cpp" />
     <ClCompile Include="LongestPalindromicSubstring_Manach.cpp" />
     <ClCompile Include="LongestSubstring.cpp" />
@@ -147,6 +148,7 @@
   <ItemGroup>
     <ClInclude Include="AddTwoNumbers.h" />
     <ClInclude Include="BinarySearch.h" />
+    <ClInclude Include="FindFirstLastPosition.h" />
     <ClInclude Include="header.h" />
     <ClInclude Include="LongestPalindromicSubstring_DP.h" />
     <ClInclude Include="LongestPalindromicSubstring_Manach.h" />
