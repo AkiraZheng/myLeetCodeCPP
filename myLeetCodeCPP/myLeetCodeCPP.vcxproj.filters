@@ -66,6 +66,9 @@
     <ClCompile Include="FindFirstLastPosition.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="SqrtX.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -117,6 +120,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="FindFirstLastPosition.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SqrtX.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

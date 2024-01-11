@@ -5,6 +5,7 @@
 //#include "RegularExpressionMatching_DP.h"
 //#include "BinarySearch.h"
 //#include "FindFirstLastPosition.h"
+#include "SqrtX.h"
 
 using namespace std;
 int main() {
@@ -33,6 +34,9 @@ int main() {
 	vector<int> nums = { 5,7,7,8,8,10 };
 	vector<int> result = FFLP.searchRange(nums, 8);
 	cout << result.at(0) << result.at(1);*/
+
+	SqrtX sx;
+	cout << sx.mySqrt(1);
 
 	return 0;
 }
