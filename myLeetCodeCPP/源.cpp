@@ -5,7 +5,8 @@
 //#include "RegularExpressionMatching_DP.h"
 //#include "BinarySearch.h"
 //#include "FindFirstLastPosition.h"
-#include "SqrtX.h"
+//#include "SqrtX.h"
+#include "ValidPerfectSquare.h"
 
 using namespace std;
 int main() {
@@ -35,8 +36,11 @@ int main() {
 	vector<int> result = FFLP.searchRange(nums, 8);
 	cout << result.at(0) << result.at(1);*/
 
-	SqrtX sx;
-	cout << sx.mySqrt(1);
+	/*SqrtX sx;
+	cout << sx.mySqrt(1);*/
+
+	ValidPerfectSquare vps;
+	cout << vps.isPerfectSquare(14);
 
 	return 0;
 }
