@@ -137,6 +137,7 @@
     <ClCompile Include="PalindromeNumber.cpp" />
     <ClCompile Include="RegularExpressionMatching_DP.cpp" />
     <ClCompile Include="RegularExpressionMatching_recursive.cpp" />
+    <ClCompile Include="RemoveElement.cpp" />
     <ClCompile Include="ReverseInteger.cpp" />
     <ClCompile Include="SearchInsertPosition.cpp" />
     <ClCompile Include="SqrtX.cpp" />
@@ -159,6 +160,7 @@
     <ClInclude Include="PalindromeNumber.h" />
     <ClInclude Include="RegularExpressionMatching_DP.h" />
     <ClInclude Include="RegularExpressionMatching_recursive.h" />
+    <ClInclude Include="RemoveElement.h" />
     <ClInclude Include="ReverseInteger.h" />
     <ClInclude Include="SearchInsertPosition.h" />
     <ClInclude Include="SqrtX.h" />
