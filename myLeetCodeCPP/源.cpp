@@ -7,7 +7,7 @@
 //#include "FindFirstLastPosition.h"
 //#include "SqrtX.h"
 //#include "ValidPerfectSquare.h"
-#include "RemoveElement.h"
+//#include "RemoveElement.h"
 
 using namespace std;
 int main() {
@@ -43,10 +43,10 @@ int main() {
 	/*ValidPerfectSquare vps;
 	cout << vps.isPerfectSquare(14);*/
 
-	RemoveElement re;
+	/*RemoveElement re;
 	vector<int> nums = { 0,1,2,2,3,0,4,2 };
 	int result = re.removeElement(nums, 2);
-	cout << result;
+	cout << result;*/
 
 	return 0;
 }
