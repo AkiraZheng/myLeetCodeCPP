@@ -87,6 +87,9 @@
     <ClCompile Include="three3Sum.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="LetterCombinationsPhoneNum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -159,6 +162,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="three3Sum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LetterCombinationsPhoneNum.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

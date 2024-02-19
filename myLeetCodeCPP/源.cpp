@@ -10,6 +10,7 @@
 //#include "RemoveElement.h"
 #include "ContainerWithMostWater.h"
 #include "three3Sum.h"
+#include "LetterCombinationsPhoneNum.h"
 
 #include "test.h"
 
@@ -56,7 +57,10 @@ int main() {
 	//ContainerWithMostWater::test_maxArea();
 
 	/*三数之和*/
-	three3Sum::test_threeSum();
+	//three3Sum::test_threeSum();
+
+	/*电话号码的字母组合*/
+	LetterCombinationsPhoneNum::test_LetterCombinationsPhoneNum();
 
 	return 0;
 }
