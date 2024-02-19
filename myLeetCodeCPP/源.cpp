@@ -8,6 +8,9 @@
 //#include "SqrtX.h"
 //#include "ValidPerfectSquare.h"
 //#include "RemoveElement.h"
+#include "ContainerWithMostWater.h"
+
+#include "test.h"
 
 using namespace std;
 int main() {
@@ -47,6 +50,11 @@ int main() {
 	vector<int> nums = { 0,1,2,2,3,0,4,2 };
 	int result = re.removeElement(nums, 2);
 	cout << result;*/
+
+	/*盛最多水的容器*/
+	ContainerWithMostWater::test_maxArea();
+
+	
 
 	return 0;
 }

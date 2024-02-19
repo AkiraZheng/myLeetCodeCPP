@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="AddTwoNumbers.cpp" />
     <ClCompile Include="BinarySearch.cpp" />
+    <ClCompile Include="ContainerWithMostWater.cpp" />
     <ClCompile Include="FindFirstLastPosition.cpp" />
     <ClCompile Include="LongestPalindromicSubstring_DP.cpp" />
     <ClCompile Include="LongestPalindromicSubstring_Manach.cpp" />
@@ -143,6 +144,7 @@
     <ClCompile Include="SearchInsertPosition.cpp" />
     <ClCompile Include="SqrtX.cpp" />
     <ClCompile Include="StringToInteger.cpp" />
+    <ClCompile Include="test.cpp" />
     <ClCompile Include="TwoSum_Exhaustive.cpp" />
     <ClCompile Include="TwoSum_HashMap.cpp" />
     <ClCompile Include="ValidPerfectSquare.cpp" />
@@ -152,6 +154,7 @@
   <ItemGroup>
     <ClInclude Include="AddTwoNumbers.h" />
     <ClInclude Include="BinarySearch.h" />
+    <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="FindFirstLastPosition.h" />
     <ClInclude Include="header.h" />
     <ClInclude Include="LongestPalindromicSubstring_DP.h" />
@@ -167,6 +170,7 @@
     <ClInclude Include="SearchInsertPosition.h" />
     <ClInclude Include="SqrtX.h" />
     <ClInclude Include="StringToInteger.h" />
+    <ClInclude Include="test.h" />
     <ClInclude Include="TwoSum_Exhaustive.h" />
     <ClInclude Include="TwoSum_HashMap.h" />
     <ClInclude Include="ValidPerfectSquare.h" />

@@ -75,6 +75,15 @@
     <ClCompile Include="RemoveElement.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="RemoveSortedArr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ContainerWithMostWater.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -135,6 +144,15 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="RemoveElement.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveSortedArr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="test.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ContainerWithMostWater.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
