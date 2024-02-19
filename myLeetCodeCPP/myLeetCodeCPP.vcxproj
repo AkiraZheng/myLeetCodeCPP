@@ -150,6 +150,7 @@
     <ClCompile Include="three3Sum.cpp" />
     <ClCompile Include="TwoSum_Exhaustive.cpp" />
     <ClCompile Include="TwoSum_HashMap.cpp" />
+    <ClCompile Include="ValidParentheses.cpp" />
     <ClCompile Include="ValidPerfectSquare.cpp" />
     <ClCompile Include="ZigzagConversion.cpp" />
     <ClCompile Include="源.cpp" />
@@ -179,6 +180,7 @@
     <ClInclude Include="three3Sum.h" />
     <ClInclude Include="TwoSum_Exhaustive.h" />
     <ClInclude Include="TwoSum_HashMap.h" />
+    <ClInclude Include="ValidParentheses.h" />
     <ClInclude Include="ValidPerfectSquare.h" />
     <ClInclude Include="ZigzagConversion.h" />
   </ItemGroup>

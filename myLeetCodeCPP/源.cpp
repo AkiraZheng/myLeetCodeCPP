@@ -8,9 +8,10 @@
 //#include "SqrtX.h"
 //#include "ValidPerfectSquare.h"
 //#include "RemoveElement.h"
-#include "ContainerWithMostWater.h"
-#include "three3Sum.h"
-#include "LetterCombinationsPhoneNum.h"
+//#include "ContainerWithMostWater.h"
+//#include "three3Sum.h"
+//#include "LetterCombinationsPhoneNum.h"
+#include "ValidParentheses.h"
 
 #include "test.h"
 
@@ -60,7 +61,10 @@ int main() {
 	//three3Sum::test_threeSum();
 
 	/*电话号码的字母组合*/
-	LetterCombinationsPhoneNum::test_LetterCombinationsPhoneNum();
+	//LetterCombinationsPhoneNum::test_LetterCombinationsPhoneNum();
+
+	/*有效的括号*/
+	ValidParentheses::test_ValidParentheses();
 
 	return 0;
 }

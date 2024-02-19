@@ -20,7 +20,7 @@ RemoveNthNode::ListNode* RemoveNthNode::removeNthFromEnd(ListNode* head, int n) 
 	}
 	//3. 当fontNode->next==nullptr后，删掉backNode->next即可
 	ListNode* temp = backNode->next;//用于最后通过delete彻底删除该节点在内存空间的分配
-	backNode->next = backNode->next->next;
+	backNode->next = temp->next;
 	delete temp;
 	return firstNode.next;
 }
