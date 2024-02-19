@@ -9,6 +9,7 @@
 //#include "ValidPerfectSquare.h"
 //#include "RemoveElement.h"
 #include "ContainerWithMostWater.h"
+#include "three3Sum.h"
 
 #include "test.h"
 
@@ -52,9 +53,10 @@ int main() {
 	cout << result;*/
 
 	/*盛最多水的容器*/
-	ContainerWithMostWater::test_maxArea();
+	//ContainerWithMostWater::test_maxArea();
 
-	
+	/*三数之和*/
+	three3Sum::test_threeSum();
 
 	return 0;
 }
