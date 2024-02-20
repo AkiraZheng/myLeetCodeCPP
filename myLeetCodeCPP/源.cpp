@@ -16,6 +16,7 @@
 //#include "NextPermutation.h"
 //#include "LongestValidParentheses.h"
 #include "SearchinRotatedSortedArray.h"
+#include "CombinationSum.h"
 
 #include "test.h"
 
@@ -80,7 +81,10 @@ int main() {
 	//LongestValidParentheses::test_LongestValidParentheses();
 	
 	/*搜索旋转排序数组*/
-	SearchinRotatedSortedArray::test_SearchinRotatedSortedArray();
+	//SearchinRotatedSortedArray::test_SearchinRotatedSortedArray();
+
+	/*组合总和*/
+	CombinationSum::test_CombinationSum();
 
 	return 0;
 }

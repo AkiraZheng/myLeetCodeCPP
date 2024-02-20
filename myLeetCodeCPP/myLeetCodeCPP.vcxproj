@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="AddTwoNumbers.cpp" />
     <ClCompile Include="BinarySearch.cpp" />
+    <ClCompile Include="CombinationSum.cpp" />
     <ClCompile Include="ContainerWithMostWater.cpp" />
     <ClCompile Include="FindFirstLastPosition.cpp" />
     <ClCompile Include="GenerateParentheses.cpp" />
@@ -164,6 +165,7 @@
   <ItemGroup>
     <ClInclude Include="AddTwoNumbers.h" />
     <ClInclude Include="BinarySearch.h" />
+    <ClInclude Include="CombinationSum.h" />
     <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="FindFirstLastPosition.h" />
     <ClInclude Include="GenerateParentheses.h" />
