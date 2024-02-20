@@ -12,7 +12,8 @@
 //#include "three3Sum.h"
 //#include "LetterCombinationsPhoneNum.h"
 //#include "ValidParentheses.h"
-#include "GenerateParentheses.h"
+//#include "GenerateParentheses.h"
+#include "NextPermutation.h"
 
 #include "test.h"
 
@@ -68,7 +69,10 @@ int main() {
 	//ValidParentheses::test_ValidParentheses();
 
 	/*括号生成*/
-	GenerateParentheses::test_GenerateParentheses();
+	//GenerateParentheses::test_GenerateParentheses();
+
+	/*下一个排列*/
+	NextPermutation::test_NextPermutation();
 
 	return 0;
 }
