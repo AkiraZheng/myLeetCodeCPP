@@ -136,6 +136,7 @@
     <ClCompile Include="LongestPalindromicSubstring_DP.cpp" />
     <ClCompile Include="LongestPalindromicSubstring_Manach.cpp" />
     <ClCompile Include="LongestSubstring.cpp" />
+    <ClCompile Include="LongestValidParentheses.cpp" />
     <ClCompile Include="Median2SortedArrays.cpp" />
     <ClCompile Include="Merge2SortedLists.cpp" />
     <ClCompile Include="MergekSortedLists.cpp" />
@@ -147,6 +148,7 @@
     <ClCompile Include="RemoveNthNode.cpp" />
     <ClCompile Include="RemoveSortedArr.cpp" />
     <ClCompile Include="ReverseInteger.cpp" />
+    <ClCompile Include="SearchinRotatedSortedArray.cpp" />
     <ClCompile Include="SearchInsertPosition.cpp" />
     <ClCompile Include="SqrtX.cpp" />
     <ClCompile Include="StringToInteger.cpp" />
@@ -170,6 +172,7 @@
     <ClInclude Include="LongestPalindromicSubstring_DP.h" />
     <ClInclude Include="LongestPalindromicSubstring_Manach.h" />
     <ClInclude Include="LongestSubstring.h" />
+    <ClInclude Include="LongestValidParentheses.h" />
     <ClInclude Include="Median2SortedArrays.h" />
     <ClInclude Include="Merge2SortedLists.h" />
     <ClInclude Include="MergekSortedLists.h" />
@@ -181,6 +184,7 @@
     <ClInclude Include="RemoveNthNode.h" />
     <ClInclude Include="RemoveSortedArr.h" />
     <ClInclude Include="ReverseInteger.h" />
+    <ClInclude Include="SearchinRotatedSortedArray.h" />
     <ClInclude Include="SearchInsertPosition.h" />
     <ClInclude Include="SqrtX.h" />
     <ClInclude Include="StringToInteger.h" />

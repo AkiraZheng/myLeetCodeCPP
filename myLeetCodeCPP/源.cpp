@@ -13,7 +13,9 @@
 //#include "LetterCombinationsPhoneNum.h"
 //#include "ValidParentheses.h"
 //#include "GenerateParentheses.h"
-#include "NextPermutation.h"
+//#include "NextPermutation.h"
+//#include "LongestValidParentheses.h"
+#include "SearchinRotatedSortedArray.h"
 
 #include "test.h"
 
@@ -72,7 +74,13 @@ int main() {
 	//GenerateParentheses::test_GenerateParentheses();
 
 	/*下一个排列*/
-	NextPermutation::test_NextPermutation();
+	//NextPermutation::test_NextPermutation();
+
+	/*最长有效括号*/
+	//LongestValidParentheses::test_LongestValidParentheses();
+	
+	/*搜索旋转排序数组*/
+	SearchinRotatedSortedArray::test_SearchinRotatedSortedArray();
 
 	return 0;
 }
