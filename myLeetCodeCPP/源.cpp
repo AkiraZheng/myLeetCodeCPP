@@ -11,7 +11,8 @@
 //#include "ContainerWithMostWater.h"
 //#include "three3Sum.h"
 //#include "LetterCombinationsPhoneNum.h"
-#include "ValidParentheses.h"
+//#include "ValidParentheses.h"
+#include "GenerateParentheses.h"
 
 #include "test.h"
 
@@ -64,7 +65,10 @@ int main() {
 	//LetterCombinationsPhoneNum::test_LetterCombinationsPhoneNum();
 
 	/*有效的括号*/
-	ValidParentheses::test_ValidParentheses();
+	//ValidParentheses::test_ValidParentheses();
+
+	/*括号生成*/
+	GenerateParentheses::test_GenerateParentheses();
 
 	return 0;
 }
