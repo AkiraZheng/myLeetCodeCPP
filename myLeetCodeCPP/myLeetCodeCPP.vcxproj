@@ -136,6 +136,7 @@
     <ClCompile Include="LongestPalindromicSubstring_Manach.cpp" />
     <ClCompile Include="LongestSubstring.cpp" />
     <ClCompile Include="Median2SortedArrays.cpp" />
+    <ClCompile Include="Merge2SortedLists.cpp" />
     <ClCompile Include="PalindromeNumber.cpp" />
     <ClCompile Include="RegularExpressionMatching_DP.cpp" />
     <ClCompile Include="RegularExpressionMatching_recursive.cpp" />
@@ -166,6 +167,7 @@
     <ClInclude Include="LongestPalindromicSubstring_Manach.h" />
     <ClInclude Include="LongestSubstring.h" />
     <ClInclude Include="Median2SortedArrays.h" />
+    <ClInclude Include="Merge2SortedLists.h" />
     <ClInclude Include="PalindromeNumber.h" />
     <ClInclude Include="RegularExpressionMatching_DP.h" />
     <ClInclude Include="RegularExpressionMatching_recursive.h" />
