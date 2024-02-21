@@ -12,7 +12,8 @@ vector<vector<int>> CombinationSum::combinationSum(vector<int>& candidates, int 
 	*	 2.1 sum>target：说明没有继续递归取值的必要了，这个枝干不符合条件，直接return
 	*	 2.2 sum==target：push进result中
 	* 3. 单层展开
-	*	 这里由于数字可以被无限取出，因此每一层都可以有nums.size()个展开（递归）
+	*	 这里虽然对于每一层的同个元素来说可以无限取出，但是对于同一枝干上的一个组合输出结果来说，每个数只能被取一次
+	*	 因此需要一个startIndex参数来表示本层可以从哪个数开始循环取起，每一层都可以有nums.size()-startIndex-1个展开（递归）
 	*/
 	result.clear();
 	layer_nums.clear();
