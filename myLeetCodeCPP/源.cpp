@@ -19,7 +19,8 @@
 //#include "CombinationSum.h"
 //#include "TrappingRainWater.h"
 //#include "Permutations.h"
-#include "RotateImage.h"
+//#include "RotateImage.h"
+#include "GroupAnagrams.h"
 
 #include "test.h"
 
@@ -97,7 +98,10 @@ int main() {
 	//Permutations::test_Permutations();
 
 	/*旋转图像*/
-	RotateImage::test_RotateImage();
+	//RotateImage::test_RotateImage();
+
+	/*字母异位词分组*/
+	GroupAnagrams::test_GroupAnagrams();
 
 	return 0;
 }

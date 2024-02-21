@@ -133,6 +133,7 @@
     <ClCompile Include="ContainerWithMostWater.cpp" />
     <ClCompile Include="FindFirstLastPosition.cpp" />
     <ClCompile Include="GenerateParentheses.cpp" />
+    <ClCompile Include="GroupAnagrams.cpp" />
     <ClCompile Include="LetterCombinationsPhoneNum.cpp" />
     <ClCompile Include="LongestPalindromicSubstring_DP.cpp" />
     <ClCompile Include="LongestPalindromicSubstring_Manach.cpp" />
@@ -172,6 +173,7 @@
     <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="FindFirstLastPosition.h" />
     <ClInclude Include="GenerateParentheses.h" />
+    <ClInclude Include="GroupAnagrams.h" />
     <ClInclude Include="header.h" />
     <ClInclude Include="LetterCombinationsPhoneNum.h" />
     <ClInclude Include="LongestPalindromicSubstring_DP.h" />
