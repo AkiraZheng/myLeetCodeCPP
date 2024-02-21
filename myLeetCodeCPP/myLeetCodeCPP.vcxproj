@@ -143,6 +143,7 @@
     <ClCompile Include="MergekSortedLists.cpp" />
     <ClCompile Include="NextPermutation.cpp" />
     <ClCompile Include="PalindromeNumber.cpp" />
+    <ClCompile Include="Permutations.cpp" />
     <ClCompile Include="RegularExpressionMatching_DP.cpp" />
     <ClCompile Include="RegularExpressionMatching_recursive.cpp" />
     <ClCompile Include="RemoveElement.cpp" />
@@ -181,11 +182,13 @@
     <ClInclude Include="MergekSortedLists.h" />
     <ClInclude Include="NextPermutation.h" />
     <ClInclude Include="PalindromeNumber.h" />
+    <ClInclude Include="Permutations.h" />
     <ClInclude Include="RegularExpressionMatching_DP.h" />
     <ClInclude Include="RegularExpressionMatching_recursive.h" />
     <ClInclude Include="RemoveElement.h" />
     <ClInclude Include="RemoveNthNode.h" />
     <ClInclude Include="RemoveSortedArr.h" />
+    <ClInclude Include="resource.h" />
     <ClInclude Include="ReverseInteger.h" />
     <ClInclude Include="SearchinRotatedSortedArray.h" />
     <ClInclude Include="SearchInsertPosition.h" />
@@ -199,6 +202,9 @@
     <ClInclude Include="ValidParentheses.h" />
     <ClInclude Include="ValidPerfectSquare.h" />
     <ClInclude Include="ZigzagConversion.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="myLeetCodeCPP.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

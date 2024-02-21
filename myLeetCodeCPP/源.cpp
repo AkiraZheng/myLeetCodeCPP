@@ -17,7 +17,8 @@
 //#include "LongestValidParentheses.h"
 //#include "SearchinRotatedSortedArray.h"
 //#include "CombinationSum.h"
-#include "TrappingRainWater.h"
+//#include "TrappingRainWater.h"
+#include "Permutations.h"
 
 #include "test.h"
 
@@ -89,7 +90,10 @@ int main() {
 
 	/*接雨水*/
 	//TrappingRainWater::test_TrappingRainWater_doublePtr();
-	TrappingRainWater::test_TrappingRainWater();
+	//TrappingRainWater::test_TrappingRainWater();
+
+	/*全排排列*/
+	Permutations::test_Permutations();
 
 	return 0;
 }
