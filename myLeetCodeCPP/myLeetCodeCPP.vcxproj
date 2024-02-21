@@ -150,6 +150,7 @@
     <ClCompile Include="RemoveNthNode.cpp" />
     <ClCompile Include="RemoveSortedArr.cpp" />
     <ClCompile Include="ReverseInteger.cpp" />
+    <ClCompile Include="RotateImage.cpp" />
     <ClCompile Include="SearchinRotatedSortedArray.cpp" />
     <ClCompile Include="SearchInsertPosition.cpp" />
     <ClCompile Include="SqrtX.cpp" />
@@ -190,6 +191,7 @@
     <ClInclude Include="RemoveSortedArr.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="ReverseInteger.h" />
+    <ClInclude Include="RotateImage.h" />
     <ClInclude Include="SearchinRotatedSortedArray.h" />
     <ClInclude Include="SearchInsertPosition.h" />
     <ClInclude Include="SqrtX.h" />

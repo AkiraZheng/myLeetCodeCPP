@@ -18,7 +18,8 @@
 //#include "SearchinRotatedSortedArray.h"
 //#include "CombinationSum.h"
 //#include "TrappingRainWater.h"
-#include "Permutations.h"
+//#include "Permutations.h"
+#include "RotateImage.h"
 
 #include "test.h"
 
@@ -93,7 +94,10 @@ int main() {
 	//TrappingRainWater::test_TrappingRainWater();
 
 	/*È«ÅÅÅÅÁĞ*/
-	Permutations::test_Permutations();
+	//Permutations::test_Permutations();
+
+	/*Ğı×ªÍ¼Ïñ*/
+	RotateImage::test_RotateImage();
 
 	return 0;
 }

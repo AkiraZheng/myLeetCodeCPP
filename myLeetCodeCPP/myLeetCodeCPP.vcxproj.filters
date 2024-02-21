@@ -123,6 +123,9 @@
     <ClCompile Include="Permutations.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="RotateImage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -234,6 +237,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="Permutations.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RotateImage.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
