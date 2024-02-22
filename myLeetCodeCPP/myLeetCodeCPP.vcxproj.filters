@@ -132,6 +132,9 @@
     <ClCompile Include="JumpGame.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="MaximumSubarray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -252,6 +255,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="JumpGame.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumSubarray.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

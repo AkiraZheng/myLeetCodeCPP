@@ -3,7 +3,7 @@
 class JumpGame
 {
 public:
-	int maxSubArray(vector<int>& nums);
+	bool canJump(vector<int>& nums);
 	static void test_JumpGame();
 };
 

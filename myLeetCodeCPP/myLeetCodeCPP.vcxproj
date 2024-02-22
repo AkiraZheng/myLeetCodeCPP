@@ -140,6 +140,7 @@
     <ClCompile Include="LongestPalindromicSubstring_Manach.cpp" />
     <ClCompile Include="LongestSubstring.cpp" />
     <ClCompile Include="LongestValidParentheses.cpp" />
+    <ClCompile Include="MaximumSubarray.cpp" />
     <ClCompile Include="Median2SortedArrays.cpp" />
     <ClCompile Include="Merge2SortedLists.cpp" />
     <ClCompile Include="MergekSortedLists.cpp" />
@@ -182,6 +183,7 @@
     <ClInclude Include="LongestPalindromicSubstring_Manach.h" />
     <ClInclude Include="LongestSubstring.h" />
     <ClInclude Include="LongestValidParentheses.h" />
+    <ClInclude Include="MaximumSubarray.h" />
     <ClInclude Include="Median2SortedArrays.h" />
     <ClInclude Include="Merge2SortedLists.h" />
     <ClInclude Include="MergekSortedLists.h" />
