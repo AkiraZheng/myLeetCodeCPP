@@ -23,7 +23,8 @@
 //#include "GroupAnagrams.h"
 //#include "MaximumSubarray.h"
 //#include "JumpGame.h"
-#include "MergeIntervals.h"
+//#include "MergeIntervals.h"
+#include "UniquePaths.h"
 
 #include "test.h"
 
@@ -113,7 +114,10 @@ int main() {
 	//JumpGame::test_JumpGame();
 
 	/*合并区间*/
-	MergeIntervals::test_MergeIntervals();
+	//MergeIntervals::test_MergeIntervals();
+
+	/*不同路径*/
+	UniquePaths::test_UniquePaths();
 
 	return 0;
 }
