@@ -145,6 +145,7 @@
     <ClCompile Include="Merge2SortedLists.cpp" />
     <ClCompile Include="MergeIntervals.cpp" />
     <ClCompile Include="MergekSortedLists.cpp" />
+    <ClCompile Include="MinimumPathSum.cpp" />
     <ClCompile Include="NextPermutation.cpp" />
     <ClCompile Include="PalindromeNumber.cpp" />
     <ClCompile Include="Permutations.cpp" />
@@ -190,6 +191,7 @@
     <ClInclude Include="Merge2SortedLists.h" />
     <ClInclude Include="MergeIntervals.h" />
     <ClInclude Include="MergekSortedLists.h" />
+    <ClInclude Include="MinimumPathSum.h" />
     <ClInclude Include="NextPermutation.h" />
     <ClInclude Include="PalindromeNumber.h" />
     <ClInclude Include="Permutations.h" />

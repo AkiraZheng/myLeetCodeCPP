@@ -24,7 +24,8 @@
 //#include "MaximumSubarray.h"
 //#include "JumpGame.h"
 //#include "MergeIntervals.h"
-#include "UniquePaths.h"
+//#include "UniquePaths.h"
+#include "MinimumPathSum.h"
 
 #include "test.h"
 
@@ -117,7 +118,10 @@ int main() {
 	//MergeIntervals::test_MergeIntervals();
 
 	/*不同路径*/
-	UniquePaths::test_UniquePaths();
+	//UniquePaths::test_UniquePaths();
+
+	/*最小路径和*/
+	MinimumPathSum::test_MinimumPathSum();
 
 	return 0;
 }
