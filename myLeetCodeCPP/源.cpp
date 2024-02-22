@@ -21,7 +21,7 @@
 //#include "Permutations.h"
 //#include "RotateImage.h"
 //#include "GroupAnagrams.h"
-#include "MaximumSubarray.h"
+//#include "MaximumSubarray.h"
 #include "JumpGame.h"
 
 #include "test.h"
@@ -106,9 +106,10 @@ int main() {
 	//GroupAnagrams::test_GroupAnagrams();
 
 	/*最大子数组和*/
-	MaximumSubarray::test_MaximumSubarray();
+	//MaximumSubarray::test_MaximumSubarray();
 	
-	//JumpGame::test_JumpGame();
+	/*跳跃游戏*/
+	JumpGame::test_JumpGame();
 
 	return 0;
 }
