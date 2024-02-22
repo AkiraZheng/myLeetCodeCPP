@@ -143,6 +143,7 @@
     <ClCompile Include="MaximumSubarray.cpp" />
     <ClCompile Include="Median2SortedArrays.cpp" />
     <ClCompile Include="Merge2SortedLists.cpp" />
+    <ClCompile Include="MergeIntervals.cpp" />
     <ClCompile Include="MergekSortedLists.cpp" />
     <ClCompile Include="NextPermutation.cpp" />
     <ClCompile Include="PalindromeNumber.cpp" />
@@ -186,6 +187,7 @@
     <ClInclude Include="MaximumSubarray.h" />
     <ClInclude Include="Median2SortedArrays.h" />
     <ClInclude Include="Merge2SortedLists.h" />
+    <ClInclude Include="MergeIntervals.h" />
     <ClInclude Include="MergekSortedLists.h" />
     <ClInclude Include="NextPermutation.h" />
     <ClInclude Include="PalindromeNumber.h" />

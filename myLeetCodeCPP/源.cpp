@@ -22,7 +22,8 @@
 //#include "RotateImage.h"
 //#include "GroupAnagrams.h"
 //#include "MaximumSubarray.h"
-#include "JumpGame.h"
+//#include "JumpGame.h"
+#include "MergeIntervals.h"
 
 #include "test.h"
 
@@ -109,7 +110,10 @@ int main() {
 	//MaximumSubarray::test_MaximumSubarray();
 	
 	/*跳跃游戏*/
-	JumpGame::test_JumpGame();
+	//JumpGame::test_JumpGame();
+
+	/*合并区间*/
+	MergeIntervals::test_MergeIntervals();
 
 	return 0;
 }
