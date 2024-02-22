@@ -20,7 +20,8 @@
 //#include "TrappingRainWater.h"
 //#include "Permutations.h"
 //#include "RotateImage.h"
-#include "GroupAnagrams.h"
+//#include "GroupAnagrams.h"
+#include "JumpGame.h"
 
 #include "test.h"
 
@@ -101,7 +102,10 @@ int main() {
 	//RotateImage::test_RotateImage();
 
 	/*字母异位词分组*/
-	GroupAnagrams::test_GroupAnagrams();
+	//GroupAnagrams::test_GroupAnagrams();
+
+	/*最大子数组和*/
+	JumpGame::test_JumpGame();
 
 	return 0;
 }
