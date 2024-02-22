@@ -144,6 +144,9 @@
     <ClCompile Include="MinimumPathSum.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ClimbingStairs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -276,6 +279,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="MinimumPathSum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ClimbingStairs.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

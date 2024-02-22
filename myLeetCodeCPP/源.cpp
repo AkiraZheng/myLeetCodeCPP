@@ -25,7 +25,8 @@
 //#include "JumpGame.h"
 //#include "MergeIntervals.h"
 //#include "UniquePaths.h"
-#include "MinimumPathSum.h"
+//#include "MinimumPathSum.h"
+#include "ClimbingStairs.h"
 
 #include "test.h"
 
@@ -121,7 +122,10 @@ int main() {
 	//UniquePaths::test_UniquePaths();
 
 	/*最小路径和*/
-	MinimumPathSum::test_MinimumPathSum();
+	//MinimumPathSum::test_MinimumPathSum();
+
+	/*爬楼梯*/
+	ClimbingStairs::test_ClimbingStairs();
 
 	return 0;
 }
