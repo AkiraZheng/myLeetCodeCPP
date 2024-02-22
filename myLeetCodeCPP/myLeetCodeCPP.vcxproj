@@ -132,6 +132,7 @@
     <ClCompile Include="ClimbingStairs.cpp" />
     <ClCompile Include="CombinationSum.cpp" />
     <ClCompile Include="ContainerWithMostWater.cpp" />
+    <ClCompile Include="EditDistance.cpp" />
     <ClCompile Include="FindFirstLastPosition.cpp" />
     <ClCompile Include="GenerateParentheses.cpp" />
     <ClCompile Include="GroupAnagrams.cpp" />
@@ -178,6 +179,7 @@
     <ClInclude Include="ClimbingStairs.h" />
     <ClInclude Include="CombinationSum.h" />
     <ClInclude Include="ContainerWithMostWater.h" />
+    <ClInclude Include="EditDistance.h" />
     <ClInclude Include="FindFirstLastPosition.h" />
     <ClInclude Include="GenerateParentheses.h" />
     <ClInclude Include="GroupAnagrams.h" />

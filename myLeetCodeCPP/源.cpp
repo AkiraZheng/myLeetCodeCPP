@@ -26,7 +26,8 @@
 //#include "MergeIntervals.h"
 //#include "UniquePaths.h"
 //#include "MinimumPathSum.h"
-#include "ClimbingStairs.h"
+//#include "ClimbingStairs.h"
+#include "EditDistance.h"
 
 #include "test.h"
 
@@ -125,7 +126,10 @@ int main() {
 	//MinimumPathSum::test_MinimumPathSum();
 
 	/*≈¿¬•Ã›*/
-	ClimbingStairs::test_ClimbingStairs();
+	//ClimbingStairs::test_ClimbingStairs();
+
+	/*±‡º≠æ‡¿Î*/
+	EditDistance::test_EditDistance();
 
 	return 0;
 }
