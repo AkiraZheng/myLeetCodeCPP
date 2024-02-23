@@ -28,7 +28,8 @@
 //#include "MinimumPathSum.h"
 //#include "ClimbingStairs.h"
 //#include "EditDistance.h"
-#include "SortColors.h"
+//#include "SortColors.h"
+#include "MinimumWindowSubstring.h"
 
 #include "test.h"
 
@@ -91,7 +92,7 @@ int main() {
 
 	/*最长有效括号*/
 	//LongestValidParentheses::test_LongestValidParentheses();
-	
+
 	/*搜索旋转排序数组*/
 	//SearchinRotatedSortedArray::test_SearchinRotatedSortedArray();
 
@@ -113,7 +114,7 @@ int main() {
 
 	/*最大子数组和*/
 	//MaximumSubarray::test_MaximumSubarray();
-	
+
 	/*跳跃游戏*/
 	//JumpGame::test_JumpGame();
 
@@ -133,7 +134,10 @@ int main() {
 	//EditDistance::test_EditDistance();
 
 	/*颜色分类*/
-	SortColors::test_SortColors();
+	//SortColors::test_SortColors();
+
+	/*最小覆盖子串*/
+	MinimumWindowSubstring::test_MinimumWindowSubstring();
 
 	return 0;
 }

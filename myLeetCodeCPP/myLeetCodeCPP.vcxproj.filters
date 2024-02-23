@@ -153,6 +153,9 @@
     <ClCompile Include="SortColors.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="MinimumWindowSubstring.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -294,6 +297,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="SortColors.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumWindowSubstring.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
