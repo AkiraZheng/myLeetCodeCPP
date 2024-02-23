@@ -29,7 +29,8 @@
 //#include "ClimbingStairs.h"
 //#include "EditDistance.h"
 //#include "SortColors.h"
-#include "MinimumWindowSubstring.h"
+//#include "MinimumWindowSubstring.h"
+#include "Subsets.h"
 
 #include "test.h"
 
@@ -137,7 +138,10 @@ int main() {
 	//SortColors::test_SortColors();
 
 	/*最小覆盖子串*/
-	MinimumWindowSubstring::test_MinimumWindowSubstring();
+	//MinimumWindowSubstring::test_MinimumWindowSubstring();
+
+	/*子集*/
+	Subsets::test_Subsets();
 
 	return 0;
 }
