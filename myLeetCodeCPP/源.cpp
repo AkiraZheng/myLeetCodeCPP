@@ -27,7 +27,8 @@
 //#include "UniquePaths.h"
 //#include "MinimumPathSum.h"
 //#include "ClimbingStairs.h"
-#include "EditDistance.h"
+//#include "EditDistance.h"
+#include "SortColors.h"
 
 #include "test.h"
 
@@ -129,7 +130,10 @@ int main() {
 	//ClimbingStairs::test_ClimbingStairs();
 
 	/*±‡º≠æ‡¿Î*/
-	EditDistance::test_EditDistance();
+	//EditDistance::test_EditDistance();
+
+	/*—’…´∑÷¿‡*/
+	SortColors::test_SortColors();
 
 	return 0;
 }
