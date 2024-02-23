@@ -31,7 +31,8 @@
 //#include "SortColors.h"
 //#include "MinimumWindowSubstring.h"
 //#include "Subsets.h"
-#include "WordSearch.h"
+//#include "WordSearch.h"
+#include "LargestRectangleinHistogram.h"
 
 #include "test.h"
 
@@ -145,7 +146,10 @@ int main() {
 	//Subsets::test_Subsets();
 
 	/*单词搜索*/
-	WordSearch::test_WordSearch();
+	//WordSearch::test_WordSearch();
+
+	/*柱状图中最大的矩形*/
+	LargestRectangleinHistogram::test_LargestRectangleinHistogram();
 
 	return 0;
 }

@@ -137,6 +137,7 @@
     <ClCompile Include="GenerateParentheses.cpp" />
     <ClCompile Include="GroupAnagrams.cpp" />
     <ClCompile Include="JumpGame.cpp" />
+    <ClCompile Include="LargestRectangleinHistogram.cpp" />
     <ClCompile Include="LetterCombinationsPhoneNum.cpp" />
     <ClCompile Include="LongestPalindromicSubstring_DP.cpp" />
     <ClCompile Include="LongestPalindromicSubstring_Manach.cpp" />
@@ -189,6 +190,7 @@
     <ClInclude Include="GroupAnagrams.h" />
     <ClInclude Include="header.h" />
     <ClInclude Include="JumpGame.h" />
+    <ClInclude Include="LargestRectangleinHistogram.h" />
     <ClInclude Include="LetterCombinationsPhoneNum.h" />
     <ClInclude Include="LongestPalindromicSubstring_DP.h" />
     <ClInclude Include="LongestPalindromicSubstring_Manach.h" />
