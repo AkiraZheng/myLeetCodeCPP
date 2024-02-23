@@ -173,6 +173,7 @@
     <ClCompile Include="UniquePaths.cpp" />
     <ClCompile Include="ValidParentheses.cpp" />
     <ClCompile Include="ValidPerfectSquare.cpp" />
+    <ClCompile Include="WordSearch.cpp" />
     <ClCompile Include="ZigzagConversion.cpp" />
     <ClCompile Include="源.cpp" />
   </ItemGroup>
@@ -225,6 +226,7 @@
     <ClInclude Include="UniquePaths.h" />
     <ClInclude Include="ValidParentheses.h" />
     <ClInclude Include="ValidPerfectSquare.h" />
+    <ClInclude Include="WordSearch.h" />
     <ClInclude Include="ZigzagConversion.h" />
   </ItemGroup>
   <ItemGroup>

@@ -30,7 +30,8 @@
 //#include "EditDistance.h"
 //#include "SortColors.h"
 //#include "MinimumWindowSubstring.h"
-#include "Subsets.h"
+//#include "Subsets.h"
+#include "WordSearch.h"
 
 #include "test.h"
 
@@ -141,7 +142,10 @@ int main() {
 	//MinimumWindowSubstring::test_MinimumWindowSubstring();
 
 	/*×Ó¼¯*/
-	Subsets::test_Subsets();
+	//Subsets::test_Subsets();
+
+	/*µ¥´ÊËÑË÷*/
+	WordSearch::test_WordSearch();
 
 	return 0;
 }
