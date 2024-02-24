@@ -33,7 +33,8 @@
 //#include "Subsets.h"
 //#include "WordSearch.h"
 //#include "LargestRectangleinHistogram.h"
-#include "MaximalRectangle.h"
+//#include "MaximalRectangle.h"
+#include "UniqueBinarySearchTrees.h"
 
 
 #include "test.h"
@@ -154,8 +155,10 @@ int main() {
 	//LargestRectangleinHistogram::test_LargestRectangleinHistogram();
 
 	/*最大矩形*/
-	MaximalRectangle::test_MaximalRectangle();
+	//MaximalRectangle::test_MaximalRectangle();
 
+	/*不同的二叉搜索树*/
+	UniqueBinarySearchTrees::test_UniqueBinarySearchTrees();
 
 	return 0;
 }

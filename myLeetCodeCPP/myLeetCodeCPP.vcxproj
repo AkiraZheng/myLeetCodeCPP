@@ -172,6 +172,7 @@
     <ClCompile Include="TrappingRainWater.cpp" />
     <ClCompile Include="TwoSum_Exhaustive.cpp" />
     <ClCompile Include="TwoSum_HashMap.cpp" />
+    <ClCompile Include="UniqueBinarySearchTrees.cpp" />
     <ClCompile Include="UniquePaths.cpp" />
     <ClCompile Include="ValidParentheses.cpp" />
     <ClCompile Include="ValidPerfectSquare.cpp" />
@@ -227,6 +228,7 @@
     <ClInclude Include="TrappingRainWater.h" />
     <ClInclude Include="TwoSum_Exhaustive.h" />
     <ClInclude Include="TwoSum_HashMap.h" />
+    <ClInclude Include="UniqueBinarySearchTrees.h" />
     <ClInclude Include="UniquePaths.h" />
     <ClInclude Include="ValidParentheses.h" />
     <ClInclude Include="ValidPerfectSquare.h" />

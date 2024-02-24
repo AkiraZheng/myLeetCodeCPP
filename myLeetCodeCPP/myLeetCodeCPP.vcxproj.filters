@@ -168,6 +168,9 @@
     <ClCompile Include="MaximalRectangle.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="UniqueBinarySearchTrees.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -324,6 +327,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="MaximalRectangle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UniqueBinarySearchTrees.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
