@@ -32,7 +32,9 @@
 //#include "MinimumWindowSubstring.h"
 //#include "Subsets.h"
 //#include "WordSearch.h"
-#include "LargestRectangleinHistogram.h"
+//#include "LargestRectangleinHistogram.h"
+#include "MaximalRectangle.h"
+
 
 #include "test.h"
 
@@ -149,7 +151,11 @@ int main() {
 	//WordSearch::test_WordSearch();
 
 	/*柱状图中最大的矩形*/
-	LargestRectangleinHistogram::test_LargestRectangleinHistogram();
+	//LargestRectangleinHistogram::test_LargestRectangleinHistogram();
+
+	/*最大矩形*/
+	MaximalRectangle::test_MaximalRectangle();
+
 
 	return 0;
 }
