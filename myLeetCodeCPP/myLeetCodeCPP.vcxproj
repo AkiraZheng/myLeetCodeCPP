@@ -146,6 +146,7 @@
     <ClCompile Include="LongestSubstring.cpp" />
     <ClCompile Include="LongestValidParentheses.cpp" />
     <ClCompile Include="MaximalRectangle.cpp" />
+    <ClCompile Include="MaximumDepthofBinaryTree.cpp" />
     <ClCompile Include="MaximumSubarray.cpp" />
     <ClCompile Include="Median2SortedArrays.cpp" />
     <ClCompile Include="Merge2SortedLists.cpp" />
@@ -205,6 +206,7 @@
     <ClInclude Include="LongestSubstring.h" />
     <ClInclude Include="LongestValidParentheses.h" />
     <ClInclude Include="MaximalRectangle.h" />
+    <ClInclude Include="MaximumDepthofBinaryTree.h" />
     <ClInclude Include="MaximumSubarray.h" />
     <ClInclude Include="Median2SortedArrays.h" />
     <ClInclude Include="Merge2SortedLists.h" />

@@ -183,6 +183,9 @@
     <ClCompile Include="BinaryTreeLevelOrderTraversal.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="MaximumDepthofBinaryTree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -354,6 +357,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="BinaryTreeLevelOrderTraversal.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumDepthofBinaryTree.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
