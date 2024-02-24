@@ -168,6 +168,7 @@
     <ClCompile Include="SqrtX.cpp" />
     <ClCompile Include="StringToInteger.cpp" />
     <ClCompile Include="Subsets.cpp" />
+    <ClCompile Include="SymmetricTree.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="three3Sum.cpp" />
     <ClCompile Include="TrappingRainWater.cpp" />
@@ -226,6 +227,7 @@
     <ClInclude Include="SqrtX.h" />
     <ClInclude Include="StringToInteger.h" />
     <ClInclude Include="Subsets.h" />
+    <ClInclude Include="SymmetricTree.h" />
     <ClInclude Include="test.h" />
     <ClInclude Include="three3Sum.h" />
     <ClInclude Include="TrappingRainWater.h" />
