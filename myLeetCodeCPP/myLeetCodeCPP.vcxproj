@@ -130,6 +130,7 @@
     <ClCompile Include="AddTwoNumbers.cpp" />
     <ClCompile Include="BinarySearch.cpp" />
     <ClCompile Include="BinaryTreeInorderTraversal.cpp" />
+    <ClCompile Include="BinaryTreeLevelOrderTraversal.cpp" />
     <ClCompile Include="ClimbingStairs.cpp" />
     <ClCompile Include="CombinationSum.cpp" />
     <ClCompile Include="ContainerWithMostWater.cpp" />
@@ -187,6 +188,7 @@
     <ClInclude Include="AddTwoNumbers.h" />
     <ClInclude Include="BinarySearch.h" />
     <ClInclude Include="BinaryTreeInorderTraversal.h" />
+    <ClInclude Include="BinaryTreeLevelOrderTraversal.h" />
     <ClInclude Include="ClimbingStairs.h" />
     <ClInclude Include="CombinationSum.h" />
     <ClInclude Include="ContainerWithMostWater.h" />
