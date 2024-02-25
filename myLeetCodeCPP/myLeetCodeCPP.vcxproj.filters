@@ -201,6 +201,9 @@
     <ClCompile Include="SingleNumber.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="LinkedListCycle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -390,6 +393,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="SingleNumber.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedListCycle.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
