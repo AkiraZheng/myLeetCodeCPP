@@ -36,7 +36,8 @@
 //#include "MaximalRectangle.h"
 //#include "UniqueBinarySearchTrees.h"
 //#include "BestTimetoBuyandSellStock.h"
-#include "LongestConsecutiveSequence.h"
+//#include "LongestConsecutiveSequence.h"
+#include "SingleNumber.h"
 
 
 #include "test.h"
@@ -166,7 +167,10 @@ int main() {
 	//BestTimetoBuyandSellStock::test_BestTimetoBuyandSellStock();
 
 	/*最长连续序列*/
-	LongestConsecutiveSequence::test_LongestConsecutiveSequence();
+	//LongestConsecutiveSequence::test_LongestConsecutiveSequence();
+
+	/*只出现一次的数字*/
+	SingleNumber::test_SingleNumber();
 
 	return 0;
 }

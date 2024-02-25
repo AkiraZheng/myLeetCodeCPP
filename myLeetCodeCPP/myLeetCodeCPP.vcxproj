@@ -170,6 +170,7 @@
     <ClCompile Include="RotateImage.cpp" />
     <ClCompile Include="SearchinRotatedSortedArray.cpp" />
     <ClCompile Include="SearchInsertPosition.cpp" />
+    <ClCompile Include="SingleNumber.cpp" />
     <ClCompile Include="SortColors.cpp" />
     <ClCompile Include="SqrtX.cpp" />
     <ClCompile Include="StringToInteger.cpp" />
@@ -235,6 +236,7 @@
     <ClInclude Include="RotateImage.h" />
     <ClInclude Include="SearchinRotatedSortedArray.h" />
     <ClInclude Include="SearchInsertPosition.h" />
+    <ClInclude Include="SingleNumber.h" />
     <ClInclude Include="SortColors.h" />
     <ClInclude Include="SqrtX.h" />
     <ClInclude Include="StringToInteger.h" />
