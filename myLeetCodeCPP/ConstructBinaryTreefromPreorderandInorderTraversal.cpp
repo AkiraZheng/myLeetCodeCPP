@@ -19,7 +19,7 @@ ConstructBinaryTreefromPreorderandInorderTraversal::TreeNode* ConstructBinaryTre
 	preorder.erase(preorder.begin());//移除当前的头节点，便于后面递归查找剩下的节点
 
 	vector<int> inorder_left_tree = vector<int>(inorder.begin(), inorder.begin() + rootIndex_in_inorder);//copy 左子树对应中序排序范围内的数组[0,rootIndex_in_inorder)
-	vector<int> inorder_right_tree = vector<int>(inorder.begin() + rootIndex_in_inorder + 1, inorder.end());
+	vector<int> inorder_right_tree = vector<int>(inorder.begin() + rootIndex_in_inorder + 1, inorder.end());//这里需要加一是因为要抛弃掉当前的root节点，只保留左右子树的子节点
 	vector<int> preorder_left_tree = vector<int>(preorder.begin(), preorder.begin() + inorder_left_tree.size());//copy 左子树对应前序排序范围内的数组:左闭右开
 	vector<int> preorder_right_tree = vector<int>(preorder.begin() + inorder_left_tree.size(), preorder.end());
 	//以第一层作为root节点为例，我们需要分别找到左子树和右子树的左右头节点
