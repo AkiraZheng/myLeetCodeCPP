@@ -35,7 +35,8 @@
 //#include "LargestRectangleinHistogram.h"
 //#include "MaximalRectangle.h"
 //#include "UniqueBinarySearchTrees.h"
-#include "BestTimetoBuyandSellStock.h"
+//#include "BestTimetoBuyandSellStock.h"
+#include "LongestConsecutiveSequence.h"
 
 
 #include "test.h"
@@ -162,7 +163,10 @@ int main() {
 	//UniqueBinarySearchTrees::test_UniqueBinarySearchTrees();
 
 	/*买卖股票的最佳时机*/
-	BestTimetoBuyandSellStock::test_BestTimetoBuyandSellStock();
+	//BestTimetoBuyandSellStock::test_BestTimetoBuyandSellStock();
+
+	/*最长连续序列*/
+	LongestConsecutiveSequence::test_LongestConsecutiveSequence();
 
 	return 0;
 }
