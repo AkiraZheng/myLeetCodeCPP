@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AddTwoNumbers.cpp" />
+    <ClCompile Include="BestTimetoBuyandSellStock.cpp" />
     <ClCompile Include="BinarySearch.cpp" />
     <ClCompile Include="BinaryTreeInorderTraversal.cpp" />
     <ClCompile Include="BinaryTreeLevelOrderTraversal.cpp" />
@@ -137,6 +138,7 @@
     <ClCompile Include="ContainerWithMostWater.cpp" />
     <ClCompile Include="EditDistance.cpp" />
     <ClCompile Include="FindFirstLastPosition.cpp" />
+    <ClCompile Include="FlattenBinaryTreetoLinkedList.cpp" />
     <ClCompile Include="GenerateParentheses.cpp" />
     <ClCompile Include="GroupAnagrams.cpp" />
     <ClCompile Include="JumpGame.cpp" />
@@ -188,6 +190,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AddTwoNumbers.h" />
+    <ClInclude Include="BestTimetoBuyandSellStock.h" />
     <ClInclude Include="BinarySearch.h" />
     <ClInclude Include="BinaryTreeInorderTraversal.h" />
     <ClInclude Include="BinaryTreeLevelOrderTraversal.h" />
@@ -197,6 +200,7 @@
     <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="EditDistance.h" />
     <ClInclude Include="FindFirstLastPosition.h" />
+    <ClInclude Include="FlattenBinaryTreetoLinkedList.h" />
     <ClInclude Include="GenerateParentheses.h" />
     <ClInclude Include="GroupAnagrams.h" />
     <ClInclude Include="header.h" />

@@ -189,6 +189,12 @@
     <ClCompile Include="ConstructBinaryTreefromPreorderandInorderTraversal.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="FlattenBinaryTreetoLinkedList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BestTimetoBuyandSellStock.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -366,6 +372,12 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="ConstructBinaryTreefromPreorderandInorderTraversal.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FlattenBinaryTreetoLinkedList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BestTimetoBuyandSellStock.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

@@ -34,7 +34,8 @@
 //#include "WordSearch.h"
 //#include "LargestRectangleinHistogram.h"
 //#include "MaximalRectangle.h"
-#include "UniqueBinarySearchTrees.h"
+//#include "UniqueBinarySearchTrees.h"
+#include "BestTimetoBuyandSellStock.h"
 
 
 #include "test.h"
@@ -158,7 +159,10 @@ int main() {
 	//MaximalRectangle::test_MaximalRectangle();
 
 	/*不同的二叉搜索树*/
-	UniqueBinarySearchTrees::test_UniqueBinarySearchTrees();
+	//UniqueBinarySearchTrees::test_UniqueBinarySearchTrees();
+
+	/*买卖股票的最佳时机*/
+	BestTimetoBuyandSellStock::test_BestTimetoBuyandSellStock();
 
 	return 0;
 }
