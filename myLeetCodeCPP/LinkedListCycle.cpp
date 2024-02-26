@@ -33,3 +33,30 @@ bool LinkedListCycle::hasCycle(ListNode* head) {
 	}
 	return false;
 }
+
+LinkedListCycle::ListNode* LinkedListCycle::detectCycle(ListNode* head) {
+	/*第142题：环形链表II
+	* 参考141题环形链表的题解思路就行
+	*/
+	ListNode* fast = head;
+	ListNode* slow = head;
+	while (fast!=nullptr && fast->next!=nullptr)
+	{
+		fast = fast->next->next;//快指针走两步
+		slow = slow->next;//慢指针走1步
+		if (fast == slow) {
+			//在环中相遇了
+			//1. 一个节点index1从head开始走，速度为1
+			ListNode* index1 = head;
+			//2. 另一个节点index2从快慢节点相遇的地方开始走，速度为1
+			ListNode* index2 = fast;
+			//3. 两个节点会在交汇处相遇
+			while (index1 != index2) {
+				index1 = index1->next;
+				index2 = index2->next;
+			}
+			return index1;
+		}
+	}
+	return nullptr;
+}

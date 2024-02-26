@@ -8,5 +8,6 @@ public:
 		ListNode(int x) : val(x), next(nullptr) {}
 	};
 	bool hasCycle(ListNode* head);
+	ListNode* detectCycle(ListNode* head);
 };
 
