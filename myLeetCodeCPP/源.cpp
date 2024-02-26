@@ -39,7 +39,8 @@
 //#include "LongestConsecutiveSequence.h"
 //#include "SingleNumber.h"
 //#include "WordBreak.h"
-#include "MaximumProductSubarrays.h"
+//#include "MaximumProductSubarrays.h"
+#include "HouseRobber.h"
 
 
 #include "test.h"
@@ -178,7 +179,10 @@ int main() {
 	//WordBreak::test_WordBreak();
 
 	/*乘积最大子数组*/
-	MaximumProductSubarrays::test_MaximumProductSubarrays();
+	//MaximumProductSubarrays::test_MaximumProductSubarrays();
+
+	/*打家劫舍*/
+	HouseRobber::test_HouseRobber();
 
 	return 0;
 }
