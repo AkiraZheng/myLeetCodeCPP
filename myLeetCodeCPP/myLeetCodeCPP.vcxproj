@@ -150,6 +150,7 @@
     <ClCompile Include="LongestPalindromicSubstring_Manach.cpp" />
     <ClCompile Include="LongestSubstring.cpp" />
     <ClCompile Include="LongestValidParentheses.cpp" />
+    <ClCompile Include="LRUCache.cpp" />
     <ClCompile Include="MaximalRectangle.cpp" />
     <ClCompile Include="MaximumDepthofBinaryTree.cpp" />
     <ClCompile Include="MaximumSubarray.cpp" />
@@ -217,6 +218,7 @@
     <ClInclude Include="LongestPalindromicSubstring_Manach.h" />
     <ClInclude Include="LongestSubstring.h" />
     <ClInclude Include="LongestValidParentheses.h" />
+    <ClInclude Include="LRUCache.h" />
     <ClInclude Include="MaximalRectangle.h" />
     <ClInclude Include="MaximumDepthofBinaryTree.h" />
     <ClInclude Include="MaximumSubarray.h" />
