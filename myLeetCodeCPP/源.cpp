@@ -38,7 +38,8 @@
 //#include "BestTimetoBuyandSellStock.h"
 //#include "LongestConsecutiveSequence.h"
 //#include "SingleNumber.h"
-#include "WordBreak.h"
+//#include "WordBreak.h"
+#include "MaximumProductSubarrays.h"
 
 
 #include "test.h"
@@ -174,7 +175,10 @@ int main() {
 	//SingleNumber::test_SingleNumber();
 
 	/*单词拆分*/
-	WordBreak::test_WordBreak();
+	//WordBreak::test_WordBreak();
+
+	/*乘积最大子数组*/
+	MaximumProductSubarrays::test_MaximumProductSubarrays();
 
 	return 0;
 }

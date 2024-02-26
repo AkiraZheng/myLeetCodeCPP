@@ -153,6 +153,7 @@
     <ClCompile Include="LRUCache.cpp" />
     <ClCompile Include="MaximalRectangle.cpp" />
     <ClCompile Include="MaximumDepthofBinaryTree.cpp" />
+    <ClCompile Include="MaximumProductSubarrays.cpp" />
     <ClCompile Include="MaximumSubarray.cpp" />
     <ClCompile Include="Median2SortedArrays.cpp" />
     <ClCompile Include="Merge2SortedLists.cpp" />
@@ -222,6 +223,7 @@
     <ClInclude Include="LRUCache.h" />
     <ClInclude Include="MaximalRectangle.h" />
     <ClInclude Include="MaximumDepthofBinaryTree.h" />
+    <ClInclude Include="MaximumProductSubarrays.h" />
     <ClInclude Include="MaximumSubarray.h" />
     <ClInclude Include="Median2SortedArrays.h" />
     <ClInclude Include="Merge2SortedLists.h" />
