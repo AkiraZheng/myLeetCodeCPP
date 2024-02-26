@@ -6,15 +6,9 @@ int MajorityElement::majorityElement(vector<int>& nums) {
 	* 用countTemp存当前最大的遍历次数、result存对应countTemp的key
 	*/
     unordered_map<int, int> m_map;//key:nums[i], value:count
-    int result;
-    int countTemp = 0;
     for (int num : nums) {
         m_map[num] += 1;//value的默认初始值是0
-        if (countTemp < m_map[num]) {
-            countTemp = m_map[num];//更换当前的最大count
-            result = num;
-        }
-        if (countTemp > nums.size() / 2) return result;
+        if (m_map[num] > nums.size() / 2) return num;
     }
-    return result;
+    return 0;
 }
