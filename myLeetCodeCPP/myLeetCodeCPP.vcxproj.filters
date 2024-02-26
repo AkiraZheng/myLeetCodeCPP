@@ -216,6 +216,12 @@
     <ClCompile Include="MaximumProductSubarrays.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="BinaryTreeMaximumPathSum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MinStack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -420,6 +426,12 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="MaximumProductSubarrays.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreeMaximumPathSum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MinStack.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

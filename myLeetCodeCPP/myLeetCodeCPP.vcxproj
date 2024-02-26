@@ -132,6 +132,7 @@
     <ClCompile Include="BinarySearch.cpp" />
     <ClCompile Include="BinaryTreeInorderTraversal.cpp" />
     <ClCompile Include="BinaryTreeLevelOrderTraversal.cpp" />
+    <ClCompile Include="BinaryTreeMaximumPathSum.cpp" />
     <ClCompile Include="ClimbingStairs.cpp" />
     <ClCompile Include="CombinationSum.cpp" />
     <ClCompile Include="ConstructBinaryTreefromPreorderandInorderTraversal.cpp" />
@@ -161,6 +162,7 @@
     <ClCompile Include="MergekSortedLists.cpp" />
     <ClCompile Include="MinimumPathSum.cpp" />
     <ClCompile Include="MinimumWindowSubstring.cpp" />
+    <ClCompile Include="MinStack.cpp" />
     <ClCompile Include="NextPermutation.cpp" />
     <ClCompile Include="PalindromeNumber.cpp" />
     <ClCompile Include="Permutations.cpp" />
@@ -201,6 +203,7 @@
     <ClInclude Include="BinarySearch.h" />
     <ClInclude Include="BinaryTreeInorderTraversal.h" />
     <ClInclude Include="BinaryTreeLevelOrderTraversal.h" />
+    <ClInclude Include="BinaryTreeMaximumPathSum.h" />
     <ClInclude Include="ClimbingStairs.h" />
     <ClInclude Include="CombinationSum.h" />
     <ClInclude Include="ConstructBinaryTreefromPreorderandInorderTraversal.h" />
@@ -231,6 +234,7 @@
     <ClInclude Include="MergekSortedLists.h" />
     <ClInclude Include="MinimumPathSum.h" />
     <ClInclude Include="MinimumWindowSubstring.h" />
+    <ClInclude Include="MinStack.h" />
     <ClInclude Include="NextPermutation.h" />
     <ClInclude Include="PalindromeNumber.h" />
     <ClInclude Include="Permutations.h" />
