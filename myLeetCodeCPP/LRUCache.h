@@ -4,7 +4,6 @@ class LRUCache
 {
 private:
     int capacity;//cache的最大存储容量
-    int usedCap = 0;
     list<pair<int, int>> cache;//双链表方便删除最闲置的点和更改最新访问的点
     unordered_map<int, list<pair<int, int>>::iterator> cacheMap;
 public:

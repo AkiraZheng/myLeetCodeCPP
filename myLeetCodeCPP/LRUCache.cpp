@@ -21,12 +21,11 @@ void LRUCache::put(int key, int value) {
 	//1.检查key在map中是否存在
 	if (cacheMap.find(key) == cacheMap.end()) {
 		//不存在：插入新键值对
-		if (usedCap == capacity) {
+		if (cache.size() == capacity) {
 			//cache满了，删掉尾元素
 			pair<int, int> lastPair = cache.back();
 			cache.pop_back();//在cache中删除
 			cacheMap.erase(lastPair.first);//在map中删除
-			usedCap--;
 		}
 		cache.push_front(pair<int, int>(key, value));//在cache中加入新的键值对
 		cacheMap[key] = cache.begin();//在map中添加新元素
@@ -39,8 +38,6 @@ void LRUCache::put(int key, int value) {
 		cache.push_front(kv);//放在cache的front
 		cacheMap[key] = cache.begin();//更新map
 	}
-
-	usedCap++;
 }
 void LRUCache::test_LRUCache() {
 
