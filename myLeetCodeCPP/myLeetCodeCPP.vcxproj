@@ -142,6 +142,7 @@
     <ClCompile Include="FlattenBinaryTreetoLinkedList.cpp" />
     <ClCompile Include="GenerateParentheses.cpp" />
     <ClCompile Include="GroupAnagrams.cpp" />
+    <ClCompile Include="IntersectionofTwoLinkedLists.cpp" />
     <ClCompile Include="JumpGame.cpp" />
     <ClCompile Include="LargestRectangleinHistogram.cpp" />
     <ClCompile Include="LetterCombinationsPhoneNum.cpp" />
@@ -214,6 +215,7 @@
     <ClInclude Include="GenerateParentheses.h" />
     <ClInclude Include="GroupAnagrams.h" />
     <ClInclude Include="header.h" />
+    <ClInclude Include="IntersectionofTwoLinkedLists.h" />
     <ClInclude Include="JumpGame.h" />
     <ClInclude Include="LargestRectangleinHistogram.h" />
     <ClInclude Include="LetterCombinationsPhoneNum.h" />
