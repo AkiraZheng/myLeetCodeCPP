@@ -187,6 +187,7 @@
     <ClCompile Include="ValidateBinarySearchTree.cpp" />
     <ClCompile Include="ValidParentheses.cpp" />
     <ClCompile Include="ValidPerfectSquare.cpp" />
+    <ClCompile Include="WordBreak.cpp" />
     <ClCompile Include="WordSearch.cpp" />
     <ClCompile Include="ZigzagConversion.cpp" />
     <ClCompile Include="源.cpp" />
@@ -254,6 +255,7 @@
     <ClInclude Include="ValidateBinarySearchTree.h" />
     <ClInclude Include="ValidParentheses.h" />
     <ClInclude Include="ValidPerfectSquare.h" />
+    <ClInclude Include="WordBreak.h" />
     <ClInclude Include="WordSearch.h" />
     <ClInclude Include="ZigzagConversion.h" />
   </ItemGroup>

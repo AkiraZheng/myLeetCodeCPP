@@ -37,7 +37,8 @@
 //#include "UniqueBinarySearchTrees.h"
 //#include "BestTimetoBuyandSellStock.h"
 //#include "LongestConsecutiveSequence.h"
-#include "SingleNumber.h"
+//#include "SingleNumber.h"
+#include "WordBreak.h"
 
 
 #include "test.h"
@@ -170,7 +171,10 @@ int main() {
 	//LongestConsecutiveSequence::test_LongestConsecutiveSequence();
 
 	/*只出现一次的数字*/
-	SingleNumber::test_SingleNumber();
+	//SingleNumber::test_SingleNumber();
+
+	/*单词拆分*/
+	WordBreak::test_WordBreak();
 
 	return 0;
 }
