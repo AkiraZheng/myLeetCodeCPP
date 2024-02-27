@@ -167,6 +167,7 @@
     <ClCompile Include="MinimumWindowSubstring.cpp" />
     <ClCompile Include="MinStack.cpp" />
     <ClCompile Include="NextPermutation.cpp" />
+    <ClCompile Include="NumberofIslands.cpp" />
     <ClCompile Include="PalindromeNumber.cpp" />
     <ClCompile Include="Permutations.cpp" />
     <ClCompile Include="RegularExpressionMatching_DP.cpp" />
@@ -242,6 +243,7 @@
     <ClInclude Include="MinimumWindowSubstring.h" />
     <ClInclude Include="MinStack.h" />
     <ClInclude Include="NextPermutation.h" />
+    <ClInclude Include="NumberofIslands.h" />
     <ClInclude Include="PalindromeNumber.h" />
     <ClInclude Include="Permutations.h" />
     <ClInclude Include="RegularExpressionMatching_DP.h" />

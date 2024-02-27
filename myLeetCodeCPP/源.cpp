@@ -40,7 +40,8 @@
 //#include "SingleNumber.h"
 //#include "WordBreak.h"
 //#include "MaximumProductSubarrays.h"
-#include "HouseRobber.h"
+//#include "HouseRobber.h"
+#include "NumberofIslands.h"
 
 
 #include "test.h"
@@ -182,7 +183,10 @@ int main() {
 	//MaximumProductSubarrays::test_MaximumProductSubarrays();
 
 	/*打家劫舍*/
-	HouseRobber::test_HouseRobber();
+	//HouseRobber::test_HouseRobber();
+
+	/*岛屿数量*/
+	NumberofIslands::test_NumberofIslands();
 
 	return 0;
 }
