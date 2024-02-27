@@ -147,6 +147,7 @@
     <ClCompile Include="ImplementTriePrefixTree.cpp" />
     <ClCompile Include="IntersectionofTwoLinkedLists.cpp" />
     <ClCompile Include="JumpGame.cpp" />
+    <ClCompile Include="KthLargestElementinanArray.cpp" />
     <ClCompile Include="LargestRectangleinHistogram.cpp" />
     <ClCompile Include="LetterCombinationsPhoneNum.cpp" />
     <ClCompile Include="LinkedListCycle.cpp" />
@@ -225,6 +226,7 @@
     <ClInclude Include="ImplementTriePrefixTree.h" />
     <ClInclude Include="IntersectionofTwoLinkedLists.h" />
     <ClInclude Include="JumpGame.h" />
+    <ClInclude Include="KthLargestElementinanArray.h" />
     <ClInclude Include="LargestRectangleinHistogram.h" />
     <ClInclude Include="LetterCombinationsPhoneNum.h" />
     <ClInclude Include="LinkedListCycle.h" />
