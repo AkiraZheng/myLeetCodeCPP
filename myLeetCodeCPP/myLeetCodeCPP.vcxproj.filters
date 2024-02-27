@@ -234,6 +234,9 @@
     <ClCompile Include="NumberofIslands.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="CourseSchedule.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -456,6 +459,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="NumberofIslands.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CourseSchedule.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

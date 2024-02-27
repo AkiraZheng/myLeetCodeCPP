@@ -41,7 +41,8 @@
 //#include "WordBreak.h"
 //#include "MaximumProductSubarrays.h"
 //#include "HouseRobber.h"
-#include "NumberofIslands.h"
+//#include "NumberofIslands.h"
+#include "CourseSchedule.h"
 
 
 #include "test.h"
@@ -186,7 +187,10 @@ int main() {
 	//HouseRobber::test_HouseRobber();
 
 	/*岛屿数量*/
-	NumberofIslands::test_NumberofIslands();
+	//NumberofIslands::test_NumberofIslands();
+
+	/*课程表*/
+	CourseSchedule::test_CourseSchedule();
 
 	return 0;
 }
