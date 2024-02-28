@@ -42,7 +42,8 @@
 //#include "MaximumProductSubarrays.h"
 //#include "HouseRobber.h"
 //#include "NumberofIslands.h"
-#include "CourseSchedule.h"
+//#include "CourseSchedule.h"
+#include "ProductofArrayExceptSelf.h"
 
 
 #include "test.h"
@@ -190,7 +191,10 @@ int main() {
 	//NumberofIslands::test_NumberofIslands();
 
 	/*课程表*/
-	CourseSchedule::test_CourseSchedule();
+	//CourseSchedule::test_CourseSchedule();
+
+	/*除自身以外数组的乘积*/
+	ProductofArrayExceptSelf::test_ProductofArrayExceptSelf();
 
 	return 0;
 }
