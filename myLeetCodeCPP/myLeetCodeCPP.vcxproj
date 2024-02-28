@@ -176,6 +176,7 @@
     <ClCompile Include="NumberofIslands.cpp" />
     <ClCompile Include="PalindromeLinkedList.cpp" />
     <ClCompile Include="PalindromeNumber.cpp" />
+    <ClCompile Include="PerfectSquares.cpp" />
     <ClCompile Include="Permutations.cpp" />
     <ClCompile Include="ProductofArrayExceptSelf.cpp" />
     <ClCompile Include="RegularExpressionMatching_DP.cpp" />
@@ -262,6 +263,7 @@
     <ClInclude Include="NumberofIslands.h" />
     <ClInclude Include="PalindromeLinkedList.h" />
     <ClInclude Include="PalindromeNumber.h" />
+    <ClInclude Include="PerfectSquares.h" />
     <ClInclude Include="Permutations.h" />
     <ClInclude Include="ProductofArrayExceptSelf.h" />
     <ClInclude Include="RegularExpressionMatching_DP.h" />
