@@ -188,6 +188,7 @@
     <ClCompile Include="SearchinRotatedSortedArray.cpp" />
     <ClCompile Include="SearchInsertPosition.cpp" />
     <ClCompile Include="SingleNumber.cpp" />
+    <ClCompile Include="SlidingWindowMaximum.cpp" />
     <ClCompile Include="SortColors.cpp" />
     <ClCompile Include="SortList.cpp" />
     <ClCompile Include="SqrtX.cpp" />
@@ -273,6 +274,7 @@
     <ClInclude Include="SearchinRotatedSortedArray.h" />
     <ClInclude Include="SearchInsertPosition.h" />
     <ClInclude Include="SingleNumber.h" />
+    <ClInclude Include="SlidingWindowMaximum.h" />
     <ClInclude Include="SortColors.h" />
     <ClInclude Include="SortList.h" />
     <ClInclude Include="SqrtX.h" />
