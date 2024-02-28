@@ -185,6 +185,7 @@
     <ClCompile Include="RemoveSortedArr.cpp" />
     <ClCompile Include="ReverseInteger.cpp" />
     <ClCompile Include="RotateImage.cpp" />
+    <ClCompile Include="Searcha2DMatrixII.cpp" />
     <ClCompile Include="SearchinRotatedSortedArray.cpp" />
     <ClCompile Include="SearchInsertPosition.cpp" />
     <ClCompile Include="SingleNumber.cpp" />
@@ -271,6 +272,7 @@
     <ClInclude Include="resource.h" />
     <ClInclude Include="ReverseInteger.h" />
     <ClInclude Include="RotateImage.h" />
+    <ClInclude Include="Searcha2DMatrixII.h" />
     <ClInclude Include="SearchinRotatedSortedArray.h" />
     <ClInclude Include="SearchInsertPosition.h" />
     <ClInclude Include="SingleNumber.h" />
