@@ -172,6 +172,7 @@
     <ClCompile Include="MinimumPathSum.cpp" />
     <ClCompile Include="MinimumWindowSubstring.cpp" />
     <ClCompile Include="MinStack.cpp" />
+    <ClCompile Include="MoveZeroes.cpp" />
     <ClCompile Include="NextPermutation.cpp" />
     <ClCompile Include="NumberofIslands.cpp" />
     <ClCompile Include="PalindromeLinkedList.cpp" />
@@ -259,6 +260,7 @@
     <ClInclude Include="MinimumPathSum.h" />
     <ClInclude Include="MinimumWindowSubstring.h" />
     <ClInclude Include="MinStack.h" />
+    <ClInclude Include="MoveZeroes.h" />
     <ClInclude Include="NextPermutation.h" />
     <ClInclude Include="NumberofIslands.h" />
     <ClInclude Include="PalindromeLinkedList.h" />
