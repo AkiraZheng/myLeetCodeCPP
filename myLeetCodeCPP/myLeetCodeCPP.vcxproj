@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="AddTwoNumbers.cpp" />
     <ClCompile Include="BestTimetoBuyandSellStock.cpp" />
+    <ClCompile Include="BestTimetoBuyandSellStockwithCooldown.cpp" />
     <ClCompile Include="BinarySearch.cpp" />
     <ClCompile Include="BinaryTreeInorderTraversal.cpp" />
     <ClCompile Include="BinaryTreeLevelOrderTraversal.cpp" />
@@ -219,6 +220,7 @@
   <ItemGroup>
     <ClInclude Include="AddTwoNumbers.h" />
     <ClInclude Include="BestTimetoBuyandSellStock.h" />
+    <ClInclude Include="BestTimetoBuyandSellStockwithCooldown.h" />
     <ClInclude Include="BinarySearch.h" />
     <ClInclude Include="BinaryTreeInorderTraversal.h" />
     <ClInclude Include="BinaryTreeLevelOrderTraversal.h" />
