@@ -285,6 +285,9 @@
     <ClCompile Include="CoinChange.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="HouseRobberIII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -558,6 +561,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="CoinChange.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HouseRobberIII.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

@@ -147,6 +147,7 @@
     <ClCompile Include="GenerateParentheses.cpp" />
     <ClCompile Include="GroupAnagrams.cpp" />
     <ClCompile Include="HouseRobber.cpp" />
+    <ClCompile Include="HouseRobberIII.cpp" />
     <ClCompile Include="ImplementTriePrefixTree.cpp" />
     <ClCompile Include="IntersectionofTwoLinkedLists.cpp" />
     <ClCompile Include="InvertBinaryTree.cpp" />
@@ -240,6 +241,7 @@
     <ClInclude Include="GroupAnagrams.h" />
     <ClInclude Include="header.h" />
     <ClInclude Include="HouseRobber.h" />
+    <ClInclude Include="HouseRobberIII.h" />
     <ClInclude Include="ImplementTriePrefixTree.h" />
     <ClInclude Include="IntersectionofTwoLinkedLists.h" />
     <ClInclude Include="InvertBinaryTree.h" />
