@@ -191,6 +191,7 @@
     <ClCompile Include="Searcha2DMatrixII.cpp" />
     <ClCompile Include="SearchinRotatedSortedArray.cpp" />
     <ClCompile Include="SearchInsertPosition.cpp" />
+    <ClCompile Include="SerializeandDeserializeBinaryTree.cpp" />
     <ClCompile Include="SingleNumber.cpp" />
     <ClCompile Include="SlidingWindowMaximum.cpp" />
     <ClCompile Include="SortColors.cpp" />
@@ -281,6 +282,7 @@
     <ClInclude Include="Searcha2DMatrixII.h" />
     <ClInclude Include="SearchinRotatedSortedArray.h" />
     <ClInclude Include="SearchInsertPosition.h" />
+    <ClInclude Include="SerializeandDeserializeBinaryTree.h" />
     <ClInclude Include="SingleNumber.h" />
     <ClInclude Include="SlidingWindowMaximum.h" />
     <ClInclude Include="SortColors.h" />
