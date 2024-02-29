@@ -188,6 +188,7 @@
     <ClCompile Include="RegularExpressionMatching_DP.cpp" />
     <ClCompile Include="RegularExpressionMatching_recursive.cpp" />
     <ClCompile Include="RemoveElement.cpp" />
+    <ClCompile Include="RemoveInvalidParentheses.cpp" />
     <ClCompile Include="RemoveNthNode.cpp" />
     <ClCompile Include="RemoveSortedArr.cpp" />
     <ClCompile Include="ReverseInteger.cpp" />
@@ -282,6 +283,7 @@
     <ClInclude Include="RegularExpressionMatching_DP.h" />
     <ClInclude Include="RegularExpressionMatching_recursive.h" />
     <ClInclude Include="RemoveElement.h" />
+    <ClInclude Include="RemoveInvalidParentheses.h" />
     <ClInclude Include="RemoveNthNode.h" />
     <ClInclude Include="RemoveSortedArr.h" />
     <ClInclude Include="resource.h" />

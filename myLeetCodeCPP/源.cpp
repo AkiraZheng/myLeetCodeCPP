@@ -194,7 +194,8 @@ int main() {
 	//CourseSchedule::test_CourseSchedule();
 
 	/*除自身以外数组的乘积*/
-	ProductofArrayExceptSelf::test_ProductofArrayExceptSelf();
+	//ProductofArrayExceptSelf::test_ProductofArrayExceptSelf();
 
+removeInvalidParentheses(")d))");
 	return 0;
 }
