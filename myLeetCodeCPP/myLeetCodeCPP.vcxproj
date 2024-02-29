@@ -135,6 +135,7 @@
     <ClCompile Include="BinaryTreeLevelOrderTraversal.cpp" />
     <ClCompile Include="BinaryTreeMaximumPathSum.cpp" />
     <ClCompile Include="ClimbingStairs.cpp" />
+    <ClCompile Include="CoinChange.cpp" />
     <ClCompile Include="CombinationSum.cpp" />
     <ClCompile Include="ConstructBinaryTreefromPreorderandInorderTraversal.cpp" />
     <ClCompile Include="ContainerWithMostWater.cpp" />
@@ -226,6 +227,7 @@
     <ClInclude Include="BinaryTreeLevelOrderTraversal.h" />
     <ClInclude Include="BinaryTreeMaximumPathSum.h" />
     <ClInclude Include="ClimbingStairs.h" />
+    <ClInclude Include="CoinChange.h" />
     <ClInclude Include="CombinationSum.h" />
     <ClInclude Include="ConstructBinaryTreefromPreorderandInorderTraversal.h" />
     <ClInclude Include="ContainerWithMostWater.h" />
