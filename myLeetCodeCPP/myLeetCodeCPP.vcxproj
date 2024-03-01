@@ -189,6 +189,7 @@
     <ClCompile Include="PerfectSquares.cpp" />
     <ClCompile Include="Permutations.cpp" />
     <ClCompile Include="ProductofArrayExceptSelf.cpp" />
+    <ClCompile Include="QueueReconstructionbyHeight.cpp" />
     <ClCompile Include="RegularExpressionMatching_DP.cpp" />
     <ClCompile Include="RegularExpressionMatching_recursive.cpp" />
     <ClCompile Include="RemoveElement.cpp" />
@@ -289,6 +290,7 @@
     <ClInclude Include="PerfectSquares.h" />
     <ClInclude Include="Permutations.h" />
     <ClInclude Include="ProductofArrayExceptSelf.h" />
+    <ClInclude Include="QueueReconstructionbyHeight.h" />
     <ClInclude Include="RegularExpressionMatching_DP.h" />
     <ClInclude Include="RegularExpressionMatching_recursive.h" />
     <ClInclude Include="RemoveElement.h" />
