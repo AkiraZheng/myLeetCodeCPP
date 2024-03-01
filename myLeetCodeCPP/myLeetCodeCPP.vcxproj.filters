@@ -300,6 +300,9 @@
     <ClCompile Include="TopKFrequentElements.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="DecodeString.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -588,6 +591,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="TopKFrequentElements.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DecodeString.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

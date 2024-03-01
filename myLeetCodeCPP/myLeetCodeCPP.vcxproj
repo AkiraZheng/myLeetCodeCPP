@@ -142,6 +142,7 @@
     <ClCompile Include="ContainerWithMostWater.cpp" />
     <ClCompile Include="CountingBits.cpp" />
     <ClCompile Include="CourseSchedule.cpp" />
+    <ClCompile Include="DecodeString.cpp" />
     <ClCompile Include="EditDistance.cpp" />
     <ClCompile Include="FindFirstLastPosition.cpp" />
     <ClCompile Include="FindtheDuplicateNumber.cpp" />
@@ -239,6 +240,7 @@
     <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="CountingBits.h" />
     <ClInclude Include="CourseSchedule.h" />
+    <ClInclude Include="DecodeString.h" />
     <ClInclude Include="EditDistance.h" />
     <ClInclude Include="FindFirstLastPosition.h" />
     <ClInclude Include="FindtheDuplicateNumber.h" />
