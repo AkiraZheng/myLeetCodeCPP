@@ -309,6 +309,9 @@
     <ClCompile Include="QueueReconstructionbyHeight.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="PathSumIII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -606,6 +609,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="QueueReconstructionbyHeight.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PathSumIII.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
