@@ -209,6 +209,7 @@
     <ClCompile Include="SymmetricTree.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="three3Sum.cpp" />
+    <ClCompile Include="TopKFrequentElements.cpp" />
     <ClCompile Include="TrappingRainWater.cpp" />
     <ClCompile Include="TwoSum_Exhaustive.cpp" />
     <ClCompile Include="TwoSum_HashMap.cpp" />
@@ -307,6 +308,7 @@
     <ClInclude Include="SymmetricTree.h" />
     <ClInclude Include="test.h" />
     <ClInclude Include="three3Sum.h" />
+    <ClInclude Include="TopKFrequentElements.h" />
     <ClInclude Include="TrappingRainWater.h" />
     <ClInclude Include="TwoSum_Exhaustive.h" />
     <ClInclude Include="TwoSum_HashMap.h" />
