@@ -144,6 +144,7 @@
     <ClCompile Include="CourseSchedule.cpp" />
     <ClCompile Include="DecodeString.cpp" />
     <ClCompile Include="EditDistance.cpp" />
+    <ClCompile Include="EvaluateDivision.cpp" />
     <ClCompile Include="FindFirstLastPosition.cpp" />
     <ClCompile Include="FindtheDuplicateNumber.cpp" />
     <ClCompile Include="FlattenBinaryTreetoLinkedList.cpp" />
@@ -242,6 +243,7 @@
     <ClInclude Include="CourseSchedule.h" />
     <ClInclude Include="DecodeString.h" />
     <ClInclude Include="EditDistance.h" />
+    <ClInclude Include="EvaluateDivision.h" />
     <ClInclude Include="FindFirstLastPosition.h" />
     <ClInclude Include="FindtheDuplicateNumber.h" />
     <ClInclude Include="FlattenBinaryTreetoLinkedList.h" />

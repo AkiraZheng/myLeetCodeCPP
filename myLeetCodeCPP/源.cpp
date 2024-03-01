@@ -43,7 +43,8 @@
 //#include "HouseRobber.h"
 //#include "NumberofIslands.h"
 //#include "CourseSchedule.h"
-#include "ProductofArrayExceptSelf.h"
+//#include "ProductofArrayExceptSelf.h"
+#include "EvaluateDivision.h"
 
 
 #include "test.h"
@@ -196,6 +197,7 @@ int main() {
 	/*除自身以外数组的乘积*/
 	//ProductofArrayExceptSelf::test_ProductofArrayExceptSelf();
 
-removeInvalidParentheses(")d))");
+	/*除法求值*/
+EvaluateDivision::test_EvaluateDivision();
 	return 0;
 }
