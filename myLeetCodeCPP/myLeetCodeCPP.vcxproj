@@ -144,6 +144,7 @@
     <ClCompile Include="CountingBits.cpp" />
     <ClCompile Include="CourseSchedule.cpp" />
     <ClCompile Include="DecodeString.cpp" />
+    <ClCompile Include="DiameterofBinaryTree.cpp" />
     <ClCompile Include="EditDistance.cpp" />
     <ClCompile Include="EvaluateDivision.cpp" />
     <ClCompile Include="FindAllAnagramsinaString.cpp" />
@@ -250,6 +251,7 @@
     <ClInclude Include="CountingBits.h" />
     <ClInclude Include="CourseSchedule.h" />
     <ClInclude Include="DecodeString.h" />
+    <ClInclude Include="DiameterofBinaryTree.h" />
     <ClInclude Include="EditDistance.h" />
     <ClInclude Include="EvaluateDivision.h" />
     <ClInclude Include="FindAllAnagramsinaString.h" />
