@@ -333,6 +333,9 @@
     <ClCompile Include="SubarraySumEqualsK.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ShortestUnsortedContinuousSubarray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -654,6 +657,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="SubarraySumEqualsK.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ShortestUnsortedContinuousSubarray.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
