@@ -140,6 +140,7 @@
     <ClCompile Include="CombinationSum.cpp" />
     <ClCompile Include="ConstructBinaryTreefromPreorderandInorderTraversal.cpp" />
     <ClCompile Include="ContainerWithMostWater.cpp" />
+    <ClCompile Include="ConvertBSTtoGreateTree.cpp" />
     <ClCompile Include="CountingBits.cpp" />
     <ClCompile Include="CourseSchedule.cpp" />
     <ClCompile Include="DecodeString.cpp" />
@@ -245,6 +246,7 @@
     <ClInclude Include="CombinationSum.h" />
     <ClInclude Include="ConstructBinaryTreefromPreorderandInorderTraversal.h" />
     <ClInclude Include="ContainerWithMostWater.h" />
+    <ClInclude Include="ConvertBSTtoGreateTree.h" />
     <ClInclude Include="CountingBits.h" />
     <ClInclude Include="CourseSchedule.h" />
     <ClInclude Include="DecodeString.h" />
