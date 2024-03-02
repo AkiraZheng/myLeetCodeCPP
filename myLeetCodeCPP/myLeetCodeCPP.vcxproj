@@ -143,6 +143,7 @@
     <ClCompile Include="ConvertBSTtoGreateTree.cpp" />
     <ClCompile Include="CountingBits.cpp" />
     <ClCompile Include="CourseSchedule.cpp" />
+    <ClCompile Include="DailyTemperatures.cpp" />
     <ClCompile Include="DecodeString.cpp" />
     <ClCompile Include="DiameterofBinaryTree.cpp" />
     <ClCompile Include="EditDistance.cpp" />
@@ -254,6 +255,7 @@
     <ClInclude Include="ConvertBSTtoGreateTree.h" />
     <ClInclude Include="CountingBits.h" />
     <ClInclude Include="CourseSchedule.h" />
+    <ClInclude Include="DailyTemperatures.h" />
     <ClInclude Include="DecodeString.h" />
     <ClInclude Include="DiameterofBinaryTree.h" />
     <ClInclude Include="EditDistance.h" />
