@@ -330,6 +330,9 @@
     <ClCompile Include="DiameterofBinaryTree.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="SubarraySumEqualsK.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -648,6 +651,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="DiameterofBinaryTree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SubarraySumEqualsK.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

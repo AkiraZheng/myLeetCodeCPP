@@ -214,6 +214,7 @@
     <ClCompile Include="SortList.cpp" />
     <ClCompile Include="SqrtX.cpp" />
     <ClCompile Include="StringToInteger.cpp" />
+    <ClCompile Include="SubarraySumEqualsK.cpp" />
     <ClCompile Include="Subsets.cpp" />
     <ClCompile Include="SymmetricTree.cpp" />
     <ClCompile Include="TargetSum.cpp" />
@@ -323,6 +324,7 @@
     <ClInclude Include="SortList.h" />
     <ClInclude Include="SqrtX.h" />
     <ClInclude Include="StringToInteger.h" />
+    <ClInclude Include="SubarraySumEqualsK.h" />
     <ClInclude Include="Subsets.h" />
     <ClInclude Include="SymmetricTree.h" />
     <ClInclude Include="TargetSum.h" />
