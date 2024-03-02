@@ -339,6 +339,9 @@
     <ClCompile Include="MergeTwoBinaryTrees.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="PalindromicSubstrings.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -666,6 +669,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="MergeTwoBinaryTrees.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PalindromicSubstrings.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

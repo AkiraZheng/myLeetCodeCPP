@@ -192,6 +192,7 @@
     <ClCompile Include="NumberofIslands.cpp" />
     <ClCompile Include="PalindromeLinkedList.cpp" />
     <ClCompile Include="PalindromeNumber.cpp" />
+    <ClCompile Include="PalindromicSubstrings.cpp" />
     <ClCompile Include="PathSumIII.cpp" />
     <ClCompile Include="PerfectSquares.cpp" />
     <ClCompile Include="Permutations.cpp" />
@@ -303,6 +304,7 @@
     <ClInclude Include="NumberofIslands.h" />
     <ClInclude Include="PalindromeLinkedList.h" />
     <ClInclude Include="PalindromeNumber.h" />
+    <ClInclude Include="PalindromicSubstrings.h" />
     <ClInclude Include="PathSumIII.h" />
     <ClInclude Include="PerfectSquares.h" />
     <ClInclude Include="Permutations.h" />
