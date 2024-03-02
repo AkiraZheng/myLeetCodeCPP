@@ -44,7 +44,8 @@
 //#include "NumberofIslands.h"
 //#include "CourseSchedule.h"
 //#include "ProductofArrayExceptSelf.h"
-#include "EvaluateDivision.h"
+//#include "EvaluateDivision.h"
+#include "TargetSum.h"
 
 
 #include "test.h"
@@ -198,6 +199,10 @@ int main() {
 	//ProductofArrayExceptSelf::test_ProductofArrayExceptSelf();
 
 	/*除法求值*/
-EvaluateDivision::test_EvaluateDivision();
+	//EvaluateDivision::test_EvaluateDivision();
+
+	/*目标和*/
+TargetSum::test_TargetSum();
+
 	return 0;
 }

@@ -321,6 +321,9 @@
     <ClCompile Include="HammingDistance.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="TargetSum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -630,6 +633,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="HammingDistance.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TargetSum.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
