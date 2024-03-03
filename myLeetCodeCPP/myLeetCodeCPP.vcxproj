@@ -222,6 +222,7 @@
     <ClCompile Include="Subsets.cpp" />
     <ClCompile Include="SymmetricTree.cpp" />
     <ClCompile Include="TargetSum.cpp" />
+    <ClCompile Include="TaskScheduler.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="three3Sum.cpp" />
     <ClCompile Include="TopKFrequentElements.cpp" />
@@ -336,6 +337,7 @@
     <ClInclude Include="Subsets.h" />
     <ClInclude Include="SymmetricTree.h" />
     <ClInclude Include="TargetSum.h" />
+    <ClInclude Include="TaskScheduler.h" />
     <ClInclude Include="test.h" />
     <ClInclude Include="three3Sum.h" />
     <ClInclude Include="TopKFrequentElements.h" />

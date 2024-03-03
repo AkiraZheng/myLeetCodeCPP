@@ -345,6 +345,9 @@
     <ClCompile Include="DailyTemperatures.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="TaskScheduler.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -678,6 +681,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="DailyTemperatures.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TaskScheduler.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
