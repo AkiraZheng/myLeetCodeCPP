@@ -186,6 +186,7 @@
     <ClCompile Include="MergekSortedLists.cpp" />
     <ClCompile Include="MergeTwoBinaryTrees.cpp" />
     <ClCompile Include="MinimumPathSum.cpp" />
+    <ClCompile Include="MinimumSizeSubarraySum.cpp" />
     <ClCompile Include="MinimumWindowSubstring.cpp" />
     <ClCompile Include="MinStack.cpp" />
     <ClCompile Include="MoveZeroes.cpp" />
@@ -300,6 +301,7 @@
     <ClInclude Include="MergekSortedLists.h" />
     <ClInclude Include="MergeTwoBinaryTrees.h" />
     <ClInclude Include="MinimumPathSum.h" />
+    <ClInclude Include="MinimumSizeSubarraySum.h" />
     <ClInclude Include="MinimumWindowSubstring.h" />
     <ClInclude Include="MinStack.h" />
     <ClInclude Include="MoveZeroes.h" />
