@@ -217,6 +217,7 @@
     <ClCompile Include="SlidingWindowMaximum.cpp" />
     <ClCompile Include="SortColors.cpp" />
     <ClCompile Include="SortList.cpp" />
+    <ClCompile Include="SpiralMatrixII.cpp" />
     <ClCompile Include="SqrtX.cpp" />
     <ClCompile Include="StringToInteger.cpp" />
     <ClCompile Include="SubarraySumEqualsK.cpp" />
@@ -333,6 +334,7 @@
     <ClInclude Include="SlidingWindowMaximum.h" />
     <ClInclude Include="SortColors.h" />
     <ClInclude Include="SortList.h" />
+    <ClInclude Include="SpiralMatrixII.h" />
     <ClInclude Include="SqrtX.h" />
     <ClInclude Include="StringToInteger.h" />
     <ClInclude Include="SubarraySumEqualsK.h" />

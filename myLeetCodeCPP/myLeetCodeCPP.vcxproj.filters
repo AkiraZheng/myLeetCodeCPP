@@ -351,6 +351,9 @@
     <ClCompile Include="MinimumSizeSubarraySum.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="SpiralMatrixII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -690,6 +693,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="MinimumSizeSubarraySum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SpiralMatrixII.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
