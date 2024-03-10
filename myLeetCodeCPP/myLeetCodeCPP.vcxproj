@@ -145,6 +145,7 @@
     <ClCompile Include="CourseSchedule.cpp" />
     <ClCompile Include="DailyTemperatures.cpp" />
     <ClCompile Include="DecodeString.cpp" />
+    <ClCompile Include="DesignLinkedList.cpp" />
     <ClCompile Include="DiameterofBinaryTree.cpp" />
     <ClCompile Include="EditDistance.cpp" />
     <ClCompile Include="EvaluateDivision.cpp" />
@@ -261,6 +262,7 @@
     <ClInclude Include="CourseSchedule.h" />
     <ClInclude Include="DailyTemperatures.h" />
     <ClInclude Include="DecodeString.h" />
+    <ClInclude Include="DesignLinkedList.h" />
     <ClInclude Include="DiameterofBinaryTree.h" />
     <ClInclude Include="EditDistance.h" />
     <ClInclude Include="EvaluateDivision.h" />

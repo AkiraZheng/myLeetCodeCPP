@@ -357,6 +357,9 @@
     <ClCompile Include="RemoveLinkedListElements.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="DesignLinkedList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -702,6 +705,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="RemoveLinkedListElements.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DesignLinkedList.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
