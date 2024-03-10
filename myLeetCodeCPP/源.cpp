@@ -202,7 +202,7 @@ int main() {
 	//EvaluateDivision::test_EvaluateDivision();
 
 	/*Ä¿±êºÍ*/
-	TargetSum::test_TargetSum();
+	//TargetSum::test_TargetSum();
 
 	return 0;
 }
