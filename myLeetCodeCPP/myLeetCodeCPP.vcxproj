@@ -224,6 +224,7 @@
     <ClCompile Include="StringToInteger.cpp" />
     <ClCompile Include="SubarraySumEqualsK.cpp" />
     <ClCompile Include="Subsets.cpp" />
+    <ClCompile Include="SwapNodesinPairs.cpp" />
     <ClCompile Include="SymmetricTree.cpp" />
     <ClCompile Include="TargetSum.cpp" />
     <ClCompile Include="TaskScheduler.cpp" />
@@ -343,6 +344,7 @@
     <ClInclude Include="StringToInteger.h" />
     <ClInclude Include="SubarraySumEqualsK.h" />
     <ClInclude Include="Subsets.h" />
+    <ClInclude Include="SwapNodesinPairs.h" />
     <ClInclude Include="SymmetricTree.h" />
     <ClInclude Include="TargetSum.h" />
     <ClInclude Include="TaskScheduler.h" />
