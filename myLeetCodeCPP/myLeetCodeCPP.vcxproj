@@ -160,6 +160,7 @@
     <ClCompile Include="HouseRobber.cpp" />
     <ClCompile Include="HouseRobberIII.cpp" />
     <ClCompile Include="ImplementTriePrefixTree.cpp" />
+    <ClCompile Include="IntersectionofTwoArrays.cpp" />
     <ClCompile Include="IntersectionofTwoLinkedLists.cpp" />
     <ClCompile Include="IntersectionofTwoLinkedListsLCCI.cpp" />
     <ClCompile Include="InvertBinaryTree.cpp" />
@@ -281,6 +282,7 @@
     <ClInclude Include="HouseRobber.h" />
     <ClInclude Include="HouseRobberIII.h" />
     <ClInclude Include="ImplementTriePrefixTree.h" />
+    <ClInclude Include="IntersectionofTwoArrays.h" />
     <ClInclude Include="IntersectionofTwoLinkedLists.h" />
     <ClInclude Include="IntersectionofTwoLinkedListsLCCI.h" />
     <ClInclude Include="InvertBinaryTree.h" />

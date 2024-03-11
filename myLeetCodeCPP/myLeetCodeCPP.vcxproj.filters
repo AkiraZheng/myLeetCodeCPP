@@ -369,6 +369,9 @@
     <ClCompile Include="ValidAnagram.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="IntersectionofTwoArrays.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -726,6 +729,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="ValidAnagram.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IntersectionofTwoArrays.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
