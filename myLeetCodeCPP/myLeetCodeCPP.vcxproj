@@ -196,6 +196,7 @@
     <ClCompile Include="NextPermutation.cpp" />
     <ClCompile Include="NumberofIslands.cpp" />
     <ClCompile Include="n_4Sum.cpp" />
+    <ClCompile Include="n_4SumII.cpp" />
     <ClCompile Include="PalindromeLinkedList.cpp" />
     <ClCompile Include="PalindromeNumber.cpp" />
     <ClCompile Include="PalindromicSubstrings.cpp" />
@@ -320,6 +321,7 @@
     <ClInclude Include="NextPermutation.h" />
     <ClInclude Include="NumberofIslands.h" />
     <ClInclude Include="n_4Sum.h" />
+    <ClInclude Include="n_4SumII.h" />
     <ClInclude Include="PalindromeLinkedList.h" />
     <ClInclude Include="PalindromeNumber.h" />
     <ClInclude Include="PalindromicSubstrings.h" />
