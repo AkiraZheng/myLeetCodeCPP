@@ -157,6 +157,7 @@
     <ClCompile Include="GenerateParentheses.cpp" />
     <ClCompile Include="GroupAnagrams.cpp" />
     <ClCompile Include="HammingDistance.cpp" />
+    <ClCompile Include="HappyNumber.cpp" />
     <ClCompile Include="HouseRobber.cpp" />
     <ClCompile Include="HouseRobberIII.cpp" />
     <ClCompile Include="ImplementTriePrefixTree.cpp" />
@@ -281,6 +282,7 @@
     <ClInclude Include="GenerateParentheses.h" />
     <ClInclude Include="GroupAnagrams.h" />
     <ClInclude Include="HammingDistance.h" />
+    <ClInclude Include="HappyNumber.h" />
     <ClInclude Include="header.h" />
     <ClInclude Include="HouseRobber.h" />
     <ClInclude Include="HouseRobberIII.h" />
