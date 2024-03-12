@@ -45,7 +45,8 @@
 //#include "CourseSchedule.h"
 //#include "ProductofArrayExceptSelf.h"
 //#include "EvaluateDivision.h"
-#include "TargetSum.h"
+//#include "TargetSum.h"
+#include "n_4Sum.h"
 
 
 #include "test.h"
@@ -203,6 +204,9 @@ int main() {
 
 	/*目标和*/
 	//TargetSum::test_TargetSum();
+
+	/*四数之和*/
+	n_4Sum::test_4Sum();
 
 	return 0;
 }

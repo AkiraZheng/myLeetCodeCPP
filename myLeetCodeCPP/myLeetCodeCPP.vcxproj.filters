@@ -372,6 +372,9 @@
     <ClCompile Include="IntersectionofTwoArrays.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="n_4Sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringToInteger.h">
@@ -732,6 +735,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="IntersectionofTwoArrays.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="n_4Sum.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
